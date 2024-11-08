@@ -1,0 +1,1577 @@
+age,gender,covid_distancing,covid_masks,vaccinated,self_rated_mental_health,ethnicity,hours,occupation,work_from_home,income,educational_attainment
+2,3,2,2,2,1,1,10,"education, law and social, community, and government services",2,2,3
+0,2,1,2,1,1,1,6,Management,2,0,2
+1,1,1,1,1,1,4,2,Business,2,0,3
+4,2,1,2,2,1,6,40,Management,2,1,3
+1,1,1,0,0,0,5,7,Business,2,1,3
+0,1,2,2,1,1,6,6,Management,2,1,1
+0,2,1,1,2,0,1,8,Management,2,1,3
+1,2,2,1,1,1,6,5,Health,2,2,2
+2,1,2,2,2,1,6,30,Business,2,1,3
+2,2,2,2,1,0,6,8,Sales and service,2,0,2
+1,2,2,2,1,1,6,30,Sales and service,2,0,2
+2,1,2,1,2,1,2,14,"art, culture, recreation and sport",2,2,2
+2,1,1,2,2,1,2,35,Natural and applied sciences,2,1,2
+0,1,2,1,1,1,1,40,Sales and service,2,2,3
+0,1,1,2,0,1,6,40,Sales and service,2,1,2
+0,1,2,2,1,1,6,6,"Trades, transport and equipment operators",3,0,1
+1,1,2,2,1,1,6,8,Sales and service,3,0,2
+1,1,2,2,0,1,6,38,Business,2,3,3
+1,1,1,1,1,1,5,10,Health,2,1,3
+0,1,2,1,1,1,5,10,"Trades, transport and equipment operators",2,3,2
+1,1,1,2,2,1,1,8,Natural and applied sciences,2,1,2
+3,1,1,2,1,1,2,35,Sales and service,2,1,2
+1,2,1,2,1,1,1,32,"art, culture, recreation and sport",2,1,3
+0,2,2,1,0,1,2,8,Natural and applied sciences,2,2,1
+0,2,1,2,1,1,5,10,"education, law and social, community, and government services",2,0,2
+1,1,1,2,1,1,6,2,Sales and service,2,1,2
+3,1,1,2,1,1,2,5,"Trades, transport and equipment operators",2,1,2
+0,1,2,1,1,0,6,4,Management,2,0,1
+0,2,2,1,1,1,3,45,Manufacturing and utilities,2,1,1
+1,2,2,2,2,1,3,40,Natural resources and agriculture,2,1,1
+1,2,1,2,2,1,3,35,"Trades, transport and equipment operators",2,1,2
+0,2,2,2,1,1,6,55,"art, culture, recreation and sport",2,0,3
+2,1,2,2,1,1,1,7,Health,2,2,3
+0,2,1,2,2,1,6,6,"education, law and social, community, and government services",2,1,2
+1,1,1,0,2,1,6,40,Business,3,0,2
+0,2,1,1,1,1,1,8,"education, law and social, community, and government services",2,0,2
+1,2,1,1,0,1,2,24,Natural resources and agriculture,2,1,3
+1,2,2,2,1,1,6,32,"art, culture, recreation and sport",2,2,3
+2,3,0,0,0,1,2,10,Natural resources and agriculture,2,1,2
+0,1,1,2,1,1,1,4,Natural and applied sciences,2,1,2
+1,2,1,2,1,1,6,6,"education, law and social, community, and government services",2,0,1
+0,1,2,2,1,1,6,8,Business,2,1,3
+2,2,1,0,0,0,1,45,"Trades, transport and equipment operators",3,2,2
+1,2,2,2,2,1,6,3,"education, law and social, community, and government services",2,1,2
+0,1,2,2,1,1,6,8,Management,3,0,2
+1,1,2,2,1,1,6,8,"education, law and social, community, and government services",2,2,3
+0,2,1,2,2,1,1,4,Business,2,0,1
+0,1,2,2,1,1,1,5,Health,2,2,2
+0,1,2,2,1,1,3,48,Sales and service,2,0,2
+1,2,1,2,1,1,6,48,Business,2,0,3
+0,1,1,1,1,1,6,12,Business,2,1,3
+0,1,1,2,1,1,6,14,"education, law and social, community, and government services",2,1,3
+0,2,1,1,1,1,6,5,Business,2,0,3
+0,1,2,2,1,1,1,30,"education, law and social, community, and government services",2,2,1
+2,1,1,2,1,1,1,5,"education, law and social, community, and government services",2,1,2
+1,1,2,2,1,1,1,3,Business,2,0,1
+1,1,2,1,1,1,4,5,Manufacturing and utilities,1,1,1
+0,1,0,2,1,1,6,6,"education, law and social, community, and government services",2,2,3
+0,1,0,2,1,1,6,5,"education, law and social, community, and government services",2,3,3
+0,2,2,1,0,1,6,30,Natural and applied sciences,2,1,3
+0,2,2,2,1,1,3,40,Sales and service,2,0,2
+0,2,2,2,1,1,3,40,Sales and service,2,0,2
+1,1,2,2,1,1,6,30,Sales and service,2,2,2
+0,1,1,1,0,1,1,6,"art, culture, recreation and sport",2,0,2
+0,2,1,0,1,1,4,6,"Trades, transport and equipment operators",2,0,3
+0,2,0,1,0,1,1,24,Natural resources and agriculture,2,0,3
+1,2,1,1,1,0,6,20,Health,2,0,2
+2,1,2,2,2,1,6,36,Sales and service,2,0,2
+0,1,2,2,2,1,6,6,Sales and service,2,0,1
+1,1,2,1,1,1,5,5,Business,3,0,2
+0,1,1,0,1,1,6,40,Sales and service,2,3,3
+0,1,1,0,1,1,6,40,Sales and service,2,2,3
+2,1,1,2,1,1,5,30,"education, law and social, community, and government services",2,1,2
+2,2,1,2,1,1,2,30,"education, law and social, community, and government services",2,1,2
+2,1,2,1,2,1,1,8,Natural resources and agriculture,2,2,3
+3,2,1,1,1,1,6,3,"Trades, transport and equipment operators",2,1,3
+1,2,1,1,0,1,3,3,"art, culture, recreation and sport",1,1,2
+1,1,1,2,1,1,6,40,"art, culture, recreation and sport",2,1,2
+1,1,2,2,1,1,3,30,Business,2,2,2
+2,1,0,1,1,1,3,30,Business,2,1,3
+2,2,2,2,1,1,6,8,Sales and service,2,1,3
+1,2,1,2,2,1,1,21,Business,2,0,3
+1,1,2,2,1,0,6,80,"education, law and social, community, and government services",2,0,3
+2,2,2,2,1,1,6,8,Sales and service,2,1,2
+1,2,1,2,1,1,2,30,Business,2,2,2
+0,1,2,2,2,1,6,4,"art, culture, recreation and sport",2,3,3
+0,2,1,1,1,1,6,9,Sales and service,2,1,3
+1,1,2,1,1,1,1,32,Natural and applied sciences,2,0,2
+0,1,1,2,2,1,6,50,Natural and applied sciences,2,0,2
+1,2,1,2,2,1,4,3,Health,2,0,2
+1,1,1,2,0,1,6,40,Sales and service,2,1,1
+1,2,1,2,2,1,6,8,Sales and service,2,2,3
+2,2,2,2,2,1,2,18,Health,2,0,2
+1,1,2,1,2,1,1,3,Business,3,0,3
+0,1,1,1,1,1,6,2,Health,2,1,2
+0,1,1,1,1,1,6,2,Health,2,1,2
+0,1,1,2,1,1,5,8,Sales and service,2,0,1
+1,2,2,2,0,1,2,40,Manufacturing and utilities,2,2,2
+1,1,1,2,0,1,6,40,Sales and service,2,1,2
+2,3,0,0,0,1,2,12,"Trades, transport and equipment operators",2,1,3
+2,1,2,2,2,1,5,8,Sales and service,2,0,1
+2,1,2,2,2,1,6,32,Management,2,2,3
+1,1,2,2,2,1,6,30,Business,2,1,3
+4,2,2,2,2,1,6,20,"education, law and social, community, and government services",2,2,3
+0,1,0,2,1,1,6,6,"education, law and social, community, and government services",2,1,3
+2,1,2,1,1,1,4,12,Business,2,1,2
+1,1,1,2,0,1,6,4,"education, law and social, community, and government services",2,3,2
+1,1,1,2,1,1,6,2,"education, law and social, community, and government services",2,1,2
+1,1,1,2,2,1,4,20,Natural and applied sciences,2,1,1
+1,2,2,1,1,1,6,26,Natural resources and agriculture,2,0,2
+2,3,2,2,0,1,2,14,Natural and applied sciences,2,1,3
+1,1,2,2,2,1,6,38,Health,2,2,3
+0,1,2,1,1,1,6,26,Natural and applied sciences,2,2,3
+0,1,1,2,1,0,6,8,Management,2,1,3
+1,1,1,2,2,1,6,36,Management,2,2,3
+0,1,2,2,1,1,2,40,Natural resources and agriculture,2,0,2
+0,1,2,1,2,1,2,36,Natural resources and agriculture,2,3,3
+2,1,2,2,2,1,6,20,"education, law and social, community, and government services",2,1,3
+1,1,2,2,2,1,6,40,"Trades, transport and equipment operators",2,0,3
+2,2,2,2,1,1,5,20,"art, culture, recreation and sport",2,0,2
+0,1,1,2,1,1,6,8,"education, law and social, community, and government services",2,0,3
+0,2,2,2,0,1,6,62,Sales and service,2,0,3
+2,1,2,1,0,1,4,8,"Trades, transport and equipment operators",2,2,3
+0,1,2,2,1,0,1,40,Sales and service,2,0,1
+1,2,2,1,2,1,6,30,"education, law and social, community, and government services",2,1,3
+0,2,2,2,1,1,6,2,"education, law and social, community, and government services",2,0,3
+0,2,1,2,0,1,6,9,Natural and applied sciences,3,3,2
+0,1,0,2,1,1,6,6,"education, law and social, community, and government services",2,0,3
+0,1,1,2,1,1,6,40,Business,2,2,3
+1,1,2,2,0,1,6,30,Business,2,1,3
+2,1,1,2,1,0,6,8,Sales and service,2,1,3
+0,1,2,2,1,1,5,27,Business,2,1,3
+0,1,2,2,1,1,6,34,"art, culture, recreation and sport",2,0,2
+1,1,1,0,2,1,5,5,Management,2,1,3
+3,1,0,0,1,1,6,5,Natural resources and agriculture,2,1,1
+1,1,2,1,1,1,6,5,"Trades, transport and equipment operators",3,3,3
+1,1,2,1,1,1,1,4,Business,2,0,2
+1,2,2,2,2,1,6,20,Management,2,2,2
+0,1,1,2,1,1,6,3,"education, law and social, community, and government services",2,0,2
+1,2,2,2,1,1,6,3,"Trades, transport and equipment operators",2,2,2
+1,1,2,2,2,1,6,48,"education, law and social, community, and government services",3,1,3
+1,3,2,1,0,0,5,6,Sales and service,2,2,3
+1,2,2,2,1,1,6,8,Sales and service,2,0,2
+1,2,1,2,2,1,2,20,Natural and applied sciences,2,2,2
+1,1,0,2,1,1,6,2,Business,2,2,3
+1,2,2,1,1,1,6,9,Sales and service,2,0,3
+1,2,1,1,1,1,1,32,Management,2,1,2
+0,1,2,2,2,1,5,56,Management,2,2,2
+4,3,1,1,1,1,2,12,Health,2,0,3
+0,1,2,2,1,1,6,40,Sales and service,2,1,1
+2,2,1,2,1,1,2,4,Natural and applied sciences,2,0,2
+1,2,2,1,1,1,4,30,Manufacturing and utilities,2,3,2
+0,1,1,2,2,1,1,8,Health,2,1,2
+1,1,1,0,1,1,4,5,"education, law and social, community, and government services",2,0,2
+0,1,2,2,1,1,6,3,"education, law and social, community, and government services",2,0,2
+1,1,1,2,1,1,2,30,Natural and applied sciences,2,2,3
+0,2,2,2,0,1,6,20,"Trades, transport and equipment operators",2,0,3
+0,2,1,1,2,1,6,60,Sales and service,2,0,2
+0,2,1,1,2,1,6,60,Sales and service,2,0,2
+1,1,2,2,1,1,3,40,Business,2,2,2
+0,2,2,1,2,1,1,5,Management,2,1,1
+0,2,2,2,2,1,6,6,"art, culture, recreation and sport",2,0,1
+1,1,1,2,1,1,1,7,Health,2,0,3
+1,1,2,2,1,1,6,35,Sales and service,2,3,3
+0,2,2,2,2,1,6,40,Management,3,0,2
+1,1,1,1,1,1,1,3,Natural and applied sciences,2,1,2
+1,2,1,2,1,0,6,30,"art, culture, recreation and sport",2,1,2
+1,1,2,2,1,1,3,40,Management,2,2,2
+1,2,2,2,0,0,6,30,"education, law and social, community, and government services",3,1,3
+1,1,0,1,0,1,3,8,Natural and applied sciences,2,1,2
+1,2,2,2,1,1,6,10,Sales and service,2,0,1
+1,1,2,2,2,1,1,10,Health,2,3,3
+1,2,2,1,0,1,6,20,Business,2,1,2
+1,2,2,1,0,1,6,20,Business,2,1,2
+0,2,1,1,2,1,6,60,Sales and service,2,0,2
+1,2,2,1,1,1,6,30,Business,2,1,3
+0,2,1,1,2,1,6,60,Sales and service,2,2,2
+0,2,1,1,2,1,6,60,Sales and service,2,3,2
+0,2,1,1,2,1,6,60,Sales and service,2,3,2
+0,2,1,1,2,1,6,60,Sales and service,2,0,2
+0,1,1,2,1,1,3,10,Business,2,1,2
+0,2,1,0,1,1,6,35,Health,2,2,3
+1,1,2,2,2,1,2,10,Management,2,0,1
+0,1,1,2,2,1,3,28,Health,2,3,2
+0,1,2,2,1,1,6,10,Health,2,0,2
+1,1,0,1,2,1,4,40,"education, law and social, community, and government services",2,1,3
+1,1,1,2,1,1,6,20,"Trades, transport and equipment operators",2,2,3
+1,1,2,2,2,1,6,8,Management,3,2,3
+0,1,1,2,2,1,6,30,Natural resources and agriculture,2,2,3
+1,1,2,2,2,1,6,5,"art, culture, recreation and sport",2,1,3
+0,1,1,2,1,0,2,8,Sales and service,1,0,1
+1,1,2,2,1,1,6,8,Management,3,3,3
+0,1,2,2,1,1,3,36,"education, law and social, community, and government services",2,3,2
+1,2,0,1,1,1,5,25,Health,2,2,3
+0,2,1,2,2,1,6,40,Management,2,1,2
+0,2,2,2,1,1,1,20,Natural and applied sciences,2,0,3
+2,2,2,2,2,1,2,20,Business,2,0,3
+2,2,2,1,1,1,3,4,Business,2,0,2
+1,2,1,2,1,1,6,15,Sales and service,2,1,2
+1,1,1,2,0,1,6,15,Management,2,1,3
+1,2,2,1,0,1,6,5,Sales and service,2,0,3
+1,1,2,2,2,1,1,5,Health,2,2,3
+0,1,1,1,0,1,6,21,Health,2,0,3
+0,1,2,2,1,1,3,9,Health,2,0,3
+0,2,1,1,2,1,6,60,Sales and service,2,0,2
+0,2,1,1,2,1,6,60,Sales and service,2,0,2
+0,2,1,1,2,1,6,60,Sales and service,2,0,2
+0,2,1,2,1,0,2,40,Sales and service,2,1,2
+1,2,2,2,2,0,1,40,Sales and service,2,1,2
+3,1,1,2,1,1,2,32,Business,2,1,2
+0,1,1,2,1,1,6,35,"Trades, transport and equipment operators",2,1,3
+0,1,2,2,1,1,3,9,Health,2,0,3
+1,2,2,2,1,1,6,30,"education, law and social, community, and government services",2,3,3
+0,2,0,1,1,1,6,35,"education, law and social, community, and government services",2,2,3
+0,2,1,2,1,1,6,5,"art, culture, recreation and sport",2,0,3
+1,2,1,2,1,1,3,30,Business,2,0,2
+0,1,1,1,1,1,5,32,Business,2,1,3
+0,2,0,0,0,1,6,40,Health,2,2,2
+0,2,1,1,1,1,3,2,Business,3,0,3
+1,1,1,2,2,1,6,25,Natural and applied sciences,2,2,3
+0,2,2,2,0,1,6,3,Sales and service,2,0,1
+0,2,1,0,1,1,6,6,Management,2,0,3
+4,2,2,2,1,0,6,20,Sales and service,2,2,1
+0,1,1,2,1,1,6,5,Sales and service,2,0,3
+0,1,2,1,0,1,6,30,Business,2,1,2
+0,2,1,1,1,1,3,40,"education, law and social, community, and government services",2,1,2
+0,2,1,2,2,1,3,40,Health,2,1,3
+0,1,2,2,1,1,3,9,"education, law and social, community, and government services",2,0,3
+0,2,2,2,0,1,6,80,Sales and service,1,0,1
+0,2,1,0,1,1,6,35,Health,2,2,3
+0,1,1,2,1,1,2,25,Management,2,2,2
+2,2,2,2,0,1,6,8,Sales and service,1,0,1
+0,2,2,1,1,1,6,45,Manufacturing and utilities,2,2,2
+1,2,2,1,2,1,6,8,"education, law and social, community, and government services",1,1,3
+0,1,2,2,2,1,6,40,Management,2,0,3
+0,2,2,1,1,1,5,30,Business,2,2,2
+2,1,1,1,1,1,6,35,"art, culture, recreation and sport",2,2,3
+1,1,2,2,2,1,6,6,Business,2,0,2
+1,2,2,2,2,1,6,8,Management,2,0,2
+0,1,2,2,2,1,1,8,Management,2,0,3
+0,1,0,1,1,1,6,6,Management,2,1,2
+1,2,2,1,0,1,6,40,"Trades, transport and equipment operators",1,2,2
+0,1,1,2,1,1,5,6,Health,2,2,2
+0,3,2,2,0,0,6,20,Sales and service,1,2,2
+0,2,2,2,0,1,1,15,Natural and applied sciences,3,1,2
+0,2,1,2,1,1,2,6,"education, law and social, community, and government services",2,3,3
+0,2,2,2,0,1,1,15,"education, law and social, community, and government services",1,1,2
+0,2,1,2,2,1,1,6,"education, law and social, community, and government services",2,0,3
+1,1,1,2,0,0,6,35,"education, law and social, community, and government services",3,2,3
+1,1,1,1,1,1,2,36,Natural and applied sciences,2,2,2
+2,3,2,1,1,1,2,36,Sales and service,2,2,3
+0,2,2,2,0,1,2,15,Natural and applied sciences,2,1,3
+0,2,2,2,1,1,3,40,Sales and service,2,0,2
+2,1,1,2,2,1,6,6,Management,2,1,2
+0,2,1,2,0,1,6,12,Business,2,0,2
+1,3,2,1,1,1,5,28,Business,2,2,2
+0,2,2,2,0,1,2,15,Business,2,3,2
+1,2,2,2,1,0,6,70,Sales and service,3,0,3
+1,2,1,2,2,1,6,6,Business,2,1,2
+1,1,2,2,0,1,6,20,Management,2,1,3
+0,2,2,2,1,1,3,40,Sales and service,2,0,2
+0,2,2,2,0,1,2,16,"education, law and social, community, and government services",3,0,3
+0,1,2,2,2,1,1,4,Business,2,2,2
+2,2,2,2,0,0,6,50,Business,3,3,3
+3,2,2,2,1,1,6,40,"education, law and social, community, and government services",3,2,3
+0,2,2,2,2,1,6,40,Business,2,3,3
+0,2,1,2,0,0,6,25,Sales and service,1,0,1
+1,2,0,1,0,1,6,80,Natural and applied sciences,2,0,3
+1,2,0,1,0,1,6,80,Natural and applied sciences,2,0,3
+1,2,0,1,0,1,6,80,Natural and applied sciences,2,0,3
+1,2,2,2,1,1,6,3,Business,2,1,3
+0,2,0,2,1,0,3,4,Business,2,2,2
+0,2,1,2,0,1,3,6,Sales and service,2,1,3
+0,1,2,2,2,1,6,6,Manufacturing and utilities,2,2,2
+0,2,0,2,1,0,3,4,Business,2,2,2
+1,2,1,0,2,1,6,3,Business,2,1,3
+1,1,2,2,1,1,3,10,Sales and service,2,2,2
+0,1,2,2,2,1,6,35,Sales and service,2,3,3
+0,1,2,2,2,1,1,4,Business,3,2,3
+0,1,2,2,2,1,1,4,Business,3,2,3
+0,1,1,1,2,1,5,60,Health,2,0,2
+1,2,0,1,1,1,5,25,Health,2,2,3
+4,2,2,2,0,1,6,20,Sales and service,2,2,1
+1,1,2,2,0,1,6,40,Business,2,1,3
+0,2,2,2,2,1,6,30,Natural and applied sciences,2,0,2
+1,1,2,2,2,1,2,40,Sales and service,2,3,3
+2,2,2,2,1,0,6,40,Business,3,1,3
+1,1,2,1,0,1,6,50,Business,2,1,3
+1,1,2,2,1,0,4,10,Sales and service,3,0,3
+2,2,2,1,1,0,6,56,Health,2,1,2
+1,1,1,1,2,1,6,30,Sales and service,2,1,2
+0,1,1,1,1,1,6,8,Sales and service,2,0,3
+1,2,2,2,1,1,6,40,"education, law and social, community, and government services",2,1,2
+0,1,1,2,1,1,1,40,Manufacturing and utilities,1,1,1
+1,1,2,2,2,1,5,3,"art, culture, recreation and sport",2,0,3
+0,2,1,1,0,1,6,3,Management,2,0,2
+2,2,1,1,0,1,6,30,Management,3,2,3
+3,2,2,2,1,1,6,35,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+1,1,2,2,2,1,6,30,"education, law and social, community, and government services",2,1,3
+1,1,2,2,1,1,3,35,Management,2,3,3
+1,1,2,2,2,1,6,30,Business,2,1,3
+2,1,2,2,2,1,6,25,"art, culture, recreation and sport",2,1,3
+0,1,2,2,1,1,6,5,"art, culture, recreation and sport",3,2,3
+1,1,1,2,0,1,5,4,Sales and service,1,2,2
+0,1,0,0,1,0,6,30,"Trades, transport and equipment operators",2,1,1
+4,2,2,2,1,1,6,35,Management,2,2,2
+0,2,1,1,1,1,2,20,Health,2,0,2
+1,2,2,2,2,1,1,5,Management,2,1,3
+1,2,2,2,2,1,5,80,Business,2,0,3
+3,2,1,1,0,1,6,35,Business,2,1,3
+4,2,2,2,1,1,6,25,Health,1,2,3
+1,1,2,2,2,1,1,40,Health,2,1,3
+0,1,1,1,1,1,6,30,Manufacturing and utilities,2,1,1
+2,2,2,2,1,1,6,50,Business,3,1,1
+4,1,2,2,1,1,6,21,Health,3,1,3
+0,2,1,2,0,1,6,10,"Trades, transport and equipment operators",2,2,3
+1,1,2,2,2,1,6,20,Business,2,0,3
+1,2,2,2,2,1,6,35,Sales and service,2,3,3
+0,2,2,1,1,1,6,5,Sales and service,2,0,2
+1,1,2,1,1,1,6,3,Management,2,0,3
+1,2,2,1,1,1,6,3,Management,2,1,3
+1,1,0,2,2,1,6,2,"education, law and social, community, and government services",2,0,3
+1,1,2,2,1,1,6,3,"Trades, transport and equipment operators",2,1,3
+0,1,2,1,1,1,2,6,Business,2,0,3
+0,2,1,2,1,1,6,8,Manufacturing and utilities,2,3,3
+1,1,1,2,2,1,6,30,Natural and applied sciences,2,2,3
+1,3,2,2,0,1,6,4,"education, law and social, community, and government services",3,3,3
+0,2,2,2,1,1,2,5,Sales and service,2,0,3
+0,1,2,2,2,1,6,20,Business,2,0,2
+1,1,0,1,2,1,6,8,Natural and applied sciences,2,0,2
+0,2,2,2,1,1,6,5,Natural and applied sciences,2,0,2
+1,1,2,2,2,1,6,8,Sales and service,2,0,2
+1,1,1,1,1,0,6,8,"art, culture, recreation and sport",2,1,2
+0,1,1,2,1,1,6,3,Health,2,1,3
+1,1,1,2,1,1,6,5,"Trades, transport and equipment operators",3,1,2
+1,1,2,2,0,1,1,6,"education, law and social, community, and government services",2,2,3
+3,2,2,2,1,1,6,5,Sales and service,1,0,1
+1,2,2,2,1,1,6,30,Management,2,0,2
+4,2,2,2,1,1,6,25,"Trades, transport and equipment operators",1,1,1
+0,2,2,2,0,0,2,50,"education, law and social, community, and government services",1,1,3
+0,2,2,2,2,0,5,3,Management,2,0,3
+0,3,1,1,2,0,2,6,Sales and service,2,0,2
+3,1,2,2,2,1,6,30,Business,2,1,3
+1,1,2,2,2,1,6,40,Management,2,3,3
+0,2,1,2,0,1,6,15,Business,2,1,2
+1,2,2,2,0,1,5,50,"art, culture, recreation and sport",2,0,3
+0,1,1,2,1,0,6,20,Sales and service,2,2,2
+2,1,1,1,0,1,2,8,"Trades, transport and equipment operators",2,2,2
+1,2,0,0,1,1,3,30,Management,2,0,1
+1,2,2,2,1,1,6,4,Sales and service,2,0,2
+0,1,1,1,1,1,6,2,Natural and applied sciences,2,2,3
+0,2,1,2,1,1,6,20,Sales and service,2,0,2
+1,2,2,2,0,0,6,25,Sales and service,1,3,3
+0,1,0,2,1,1,6,8,Sales and service,2,2,3
+1,1,2,2,1,1,1,40,Manufacturing and utilities,2,1,1
+1,2,2,2,2,1,6,40,"education, law and social, community, and government services",2,1,3
+1,1,2,1,1,0,1,35,Manufacturing and utilities,2,1,1
+0,1,1,2,2,0,1,20,Natural and applied sciences,2,1,3
+2,2,2,2,2,1,6,6,"education, law and social, community, and government services",3,1,2
+2,1,2,1,1,0,1,30,Sales and service,2,1,1
+1,2,2,1,0,1,6,20,Business,2,1,2
+1,1,2,2,1,1,1,35,Manufacturing and utilities,2,1,1
+1,2,1,2,2,1,6,6,Sales and service,2,2,2
+1,1,2,2,2,1,6,9,Management,2,2,2
+1,2,1,1,1,1,6,30,Sales and service,2,1,3
+0,2,2,2,1,1,6,10,Management,3,0,2
+0,2,2,2,1,1,6,8,Sales and service,2,0,1
+1,1,2,2,2,1,1,32,"Trades, transport and equipment operators",2,1,1
+1,1,2,2,1,1,1,35,"art, culture, recreation and sport",2,1,1
+2,2,1,0,2,1,4,30,Natural and applied sciences,2,0,2
+0,2,1,2,1,1,6,30,Business,2,2,2
+2,1,2,2,0,0,6,5,Natural resources and agriculture,3,0,1
+1,2,2,1,0,1,6,20,Business,2,2,2
+0,2,2,2,1,0,6,40,"education, law and social, community, and government services",3,2,3
+4,2,2,2,1,1,6,80,"education, law and social, community, and government services",3,2,3
+1,1,2,2,1,1,3,10,"Trades, transport and equipment operators",2,2,2
+0,2,1,2,2,1,4,15,"education, law and social, community, and government services",2,0,2
+0,1,1,0,2,1,2,60,Natural and applied sciences,2,0,2
+1,2,2,1,0,1,6,20,Business,2,1,2
+0,1,2,2,2,1,3,30,Management,3,0,3
+2,1,2,1,1,1,1,32,Natural resources and agriculture,2,1,1
+1,1,2,1,1,1,1,32,"Trades, transport and equipment operators",2,1,1
+0,1,2,2,1,1,6,2,"art, culture, recreation and sport",2,1,2
+4,2,2,2,0,1,6,8,"Trades, transport and equipment operators",3,0,2
+1,1,2,2,1,1,1,35,Sales and service,2,1,1
+1,1,2,1,1,0,1,40,Manufacturing and utilities,2,1,1
+2,1,2,2,1,1,1,32,"Trades, transport and equipment operators",2,1,1
+0,1,1,1,1,1,2,9,Business,2,0,3
+0,1,1,1,1,1,2,9,Business,2,0,2
+0,1,1,1,1,1,2,9,Business,2,0,2
+2,2,2,2,1,1,6,6,"Trades, transport and equipment operators",2,2,2
+0,2,2,1,1,1,4,8,Natural and applied sciences,2,1,2
+4,2,1,2,1,1,6,40,"education, law and social, community, and government services",1,2,2
+0,2,1,1,0,1,6,5,Sales and service,2,0,3
+0,2,1,1,0,1,6,5,Sales and service,2,0,3
+1,2,2,2,2,1,6,40,Natural and applied sciences,2,1,3
+0,2,2,2,0,1,6,37.5,"education, law and social, community, and government services",2,1,3
+1,1,2,2,1,1,1,35,Manufacturing and utilities,2,1,1
+1,3,2,2,1,0,6,50,Health,2,1,2
+2,2,1,0,1,1,1,35,"education, law and social, community, and government services",2,0,2
+0,1,1,0,1,1,6,40,Sales and service,2,1,3
+1,2,2,1,0,1,6,20,Business,2,1,2
+3,1,2,2,1,1,6,50,Management,2,0,1
+2,2,2,2,1,0,6,20,"education, law and social, community, and government services",2,3,3
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+0,1,1,2,0,0,6,10,Sales and service,2,0,1
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+0,2,1,2,0,0,2,4,Sales and service,1,1,3
+0,2,2,2,2,1,6,30,"art, culture, recreation and sport",2,1,2
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+0,3,2,2,1,0,6,15,"education, law and social, community, and government services",2,0,2
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+1,2,2,2,1,1,6,35,"education, law and social, community, and government services",2,1,2
+0,2,2,2,2,1,6,40,"Trades, transport and equipment operators",2,2,1
+1,2,1,1,0,1,6,30,Natural resources and agriculture,2,3,3
+0,2,2,2,2,1,6,30,"art, culture, recreation and sport",2,1,2
+0,2,2,2,1,0,5,10,"education, law and social, community, and government services",3,0,3
+1,2,2,2,2,1,6,40,"art, culture, recreation and sport",3,1,3
+1,1,1,2,1,1,6,16,Sales and service,2,0,2
+1,1,2,2,0,1,6,15,"Trades, transport and equipment operators",2,1,2
+0,1,1,2,1,1,6,20,"education, law and social, community, and government services",2,0,3
+0,1,1,2,1,1,6,7,Health,2,0,3
+0,3,1,2,1,1,6,25,"education, law and social, community, and government services",2,1,1
+0,1,1,1,0,1,2,30,"education, law and social, community, and government services",2,1,3
+1,1,1,1,2,1,6,30,Natural resources and agriculture,2,3,3
+0,2,1,2,1,0,1,10,Sales and service,1,1,1
+1,2,1,2,1,1,6,8,"art, culture, recreation and sport",2,1,2
+1,1,0,1,0,0,6,50,Sales and service,1,1,1
+2,1,2,2,1,0,6,80,Health,2,2,3
+1,2,2,2,2,1,6,6,Natural resources and agriculture,2,0,2
+2,1,1,1,1,1,1,30,Sales and service,2,0,2
+1,1,1,2,1,1,6,8,Health,2,0,3
+0,2,2,2,1,1,3,40,Sales and service,2,0,2
+1,1,1,2,2,0,5,60,Sales and service,2,0,2
+0,1,2,2,1,1,6,3,Business,3,0,3
+0,2,2,2,0,0,6,10,Sales and service,1,0,1
+3,1,2,2,1,1,1,35,Natural and applied sciences,2,1,2
+0,1,2,2,1,1,6,8,"education, law and social, community, and government services",2,0,3
+0,2,2,2,2,1,6,40,Sales and service,2,1,2
+1,2,0,1,0,1,6,80,Natural and applied sciences,2,0,3
+1,1,1,2,2,0,5,60,Sales and service,2,0,2
+0,2,1,0,0,1,5,30,Sales and service,2,3,3
+1,1,1,2,2,0,5,60,Sales and service,2,0,2
+1,1,1,1,1,1,6,40,Management,2,1,2
+0,2,1,1,0,1,6,60,"Trades, transport and equipment operators",1,1,3
+1,1,2,2,2,1,6,48,Business,3,1,3
+0,1,2,2,1,1,5,5,"art, culture, recreation and sport",2,2,2
+1,1,1,1,2,1,1,40,Business,2,1,2
+1,1,2,2,1,1,3,40,Management,3,1,2
+0,1,1,1,1,1,5,40,Management,1,2,3
+1,2,2,2,1,0,5,2,Health,2,0,2
+0,2,0,0,1,1,6,7,Business,2,3,3
+1,1,2,2,2,1,5,10,Management,2,1,3
+1,1,2,2,1,0,1,8,Business,2,1,3
+0,1,1,2,1,0,6,30,Sales and service,3,0,2
+1,2,1,0,1,0,6,28,Natural and applied sciences,2,2,3
+1,1,2,1,2,1,5,20,Natural and applied sciences,2,0,3
+0,2,1,1,1,1,2,8,Natural and applied sciences,2,0,2
+1,1,2,1,1,1,1,32,Natural and applied sciences,2,2,2
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+3,1,2,2,2,1,6,3,Business,2,1,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,2,2,2,0,3,3,Management,2,0,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+1,1,1,2,0,1,6,8,"education, law and social, community, and government services",3,2,3
+1,2,2,2,1,1,1,25,Business,2,1,1
+0,1,1,2,1,1,6,30,Sales and service,2,2,2
+0,1,1,2,1,0,6,30,Sales and service,3,0,2
+0,1,2,2,1,1,2,30,Sales and service,2,0,2
+0,2,1,2,0,1,1,8,Natural and applied sciences,2,1,2
+0,1,2,2,0,1,6,8,"education, law and social, community, and government services",2,2,2
+1,1,0,2,2,1,6,2,"education, law and social, community, and government services",2,1,3
+0,1,2,2,1,1,6,40,Health,2,1,2
+0,1,2,2,2,1,6,25,Business,2,2,2
+0,1,2,2,2,1,6,25,Business,2,2,2
+0,2,2,2,1,1,6,20,Sales and service,2,0,2
+0,1,1,2,1,1,2,9,Manufacturing and utilities,2,0,1
+3,2,2,2,0,0,6,37,Business,3,0,3
+3,1,1,2,1,1,6,3,Management,2,3,3
+1,1,2,2,2,1,1,40,Health,2,1,3
+1,1,2,2,2,1,1,40,Health,2,1,3
+1,1,2,2,2,1,1,40,Health,2,1,3
+1,2,2,1,1,1,6,10,Sales and service,2,0,1
+1,1,2,2,2,1,1,40,Health,2,1,3
+1,1,2,2,1,1,6,5,"Trades, transport and equipment operators",2,0,3
+0,2,0,1,1,1,6,4,"education, law and social, community, and government services",2,0,2
+0,1,1,2,1,1,4,2,Health,2,0,3
+1,1,2,2,0,0,6,37.5,"education, law and social, community, and government services",2,3,3
+2,1,2,2,1,1,6,38,Management,2,3,3
+1,2,2,1,1,1,5,6,Business,2,0,3
+2,2,1,2,1,1,6,5,Natural and applied sciences,2,0,3
+1,1,0,2,1,1,6,10,Management,2,1,2
+0,1,1,2,1,1,6,20,Management,2,0,3
+0,2,1,2,1,1,6,6,"art, culture, recreation and sport",2,0,2
+0,1,1,2,1,1,6,6,Sales and service,2,0,3
+0,2,2,2,1,1,5,5,Natural and applied sciences,2,2,3
+0,1,1,2,1,0,6,30,Sales and service,3,0,2
+1,2,1,2,0,0,6,10,Business,2,0,3
+1,2,0,1,1,1,5,25,Health,2,2,3
+0,2,1,2,1,1,6,8,Manufacturing and utilities,2,3,3
+1,2,2,2,1,1,2,56,Business,2,2,2
+1,1,2,2,1,1,6,20,Management,2,2,1
+1,1,2,2,1,1,6,5,Management,2,2,3
+1,2,1,2,1,1,6,5,Business,2,2,2
+1,2,2,2,1,1,6,10,"Trades, transport and equipment operators",2,0,3
+1,2,0,2,1,1,2,3,Business,2,0,2
+1,1,2,2,2,0,1,5,Health,2,2,2
+0,1,2,1,1,1,1,40,Sales and service,2,1,3
+1,1,1,2,2,1,2,40,Sales and service,2,1,2
+0,2,2,2,1,1,2,7,Business,2,0,3
+0,1,2,2,1,1,6,30,Sales and service,2,2,3
+1,1,2,2,1,1,6,15,Management,2,1,3
+1,2,2,2,1,1,6,11,Management,2,0,2
+1,1,2,2,1,1,6,40,Business,2,3,3
+0,2,1,2,1,1,6,5,Sales and service,2,1,1
+1,1,1,2,0,1,6,8,"education, law and social, community, and government services",3,2,3
+1,1,2,2,0,1,3,35,Management,2,0,3
+2,1,2,2,2,1,6,20,Management,2,0,3
+1,2,1,2,1,0,3,30,Sales and service,2,1,2
+0,1,2,2,2,1,3,3,Management,2,0,3
+0,1,1,1,1,1,4,25,Health,2,0,1
+0,1,1,2,1,0,3,30,Business,2,1,2
+1,1,2,2,2,1,6,9,Management,2,1,3
+0,1,2,2,2,1,1,64,"education, law and social, community, and government services",1,3,2
+0,2,1,1,1,1,2,5,Business,2,0,3
+1,1,1,2,0,1,6,8,"education, law and social, community, and government services",3,2,3
+3,1,2,2,1,1,6,40,"education, law and social, community, and government services",3,2,3
+1,2,1,1,1,1,6,5,Management,3,1,3
+0,2,2,1,1,1,6,36,Natural and applied sciences,2,0,2
+1,1,1,2,0,1,6,48,Sales and service,1,1,2
+1,2,1,1,2,1,2,50,"education, law and social, community, and government services",2,0,2
+1,1,2,2,0,0,6,50,Management,3,3,3
+1,1,1,1,2,1,6,50,"Trades, transport and equipment operators",2,1,3
+1,2,2,1,1,1,6,6,"art, culture, recreation and sport",2,0,3
+0,1,1,2,0,1,6,10,"education, law and social, community, and government services",2,2,3
+0,2,0,2,2,1,6,8,"Trades, transport and equipment operators",2,2,2
+1,1,1,0,2,1,4,30,Business,2,0,2
+1,1,1,2,0,1,6,8,"education, law and social, community, and government services",3,2,3
+1,1,2,2,0,1,1,30,Sales and service,1,0,1
+2,2,2,2,1,1,6,8,Sales and service,2,0,3
+1,1,2,2,2,1,1,5,Health,2,2,3
+2,2,2,2,1,0,3,37.5,Health,2,2,3
+1,2,1,2,1,1,3,25,Management,2,1,2
+1,2,1,1,2,1,6,26,Management,2,2,2
+1,1,1,2,1,1,1,6,Natural and applied sciences,3,1,2
+1,2,1,2,1,1,6,7,"education, law and social, community, and government services",2,1,3
+0,1,1,2,0,1,6,40,"art, culture, recreation and sport",2,1,2
+0,1,1,2,1,1,6,6,"art, culture, recreation and sport",2,0,2
+0,2,2,2,2,1,6,40,Management,2,0,1
+1,2,1,1,1,1,6,48,Natural resources and agriculture,2,1,2
+4,2,1,2,1,1,6,2,Business,3,1,2
+1,1,1,2,0,1,6,48,Sales and service,1,1,2
+1,1,2,2,2,1,1,4,Health,2,0,3
+1,1,2,2,2,1,6,25,Management,2,3,2
+2,2,2,2,1,0,6,50,Management,2,3,2
+1,1,2,2,1,0,6,12,Manufacturing and utilities,3,1,3
+3,2,2,2,0,0,6,40,"education, law and social, community, and government services",2,1,3
+1,2,1,1,2,1,4,5,Health,2,0,2
+1,1,1,2,2,1,1,4,Health,2,2,3
+1,1,1,2,0,1,6,8,"education, law and social, community, and government services",3,2,3
+0,1,1,2,1,1,5,40,Natural and applied sciences,2,1,3
+0,1,2,2,2,1,6,30,Business,2,3,2
+0,2,2,1,1,1,4,8,Natural and applied sciences,2,1,2
+1,1,2,2,0,1,6,4,"education, law and social, community, and government services",2,2,3
+0,2,2,2,1,1,6,6,Management,2,1,3
+0,2,1,1,1,1,1,8,"education, law and social, community, and government services",2,0,2
+0,1,1,1,2,1,3,28,Natural and applied sciences,2,2,2
+0,2,1,1,0,1,6,5,Sales and service,2,0,3
+0,2,1,1,0,1,6,5,Sales and service,2,0,3
+0,2,1,1,0,1,6,5,Sales and service,2,0,3
+3,1,1,2,1,1,4,35,Health,2,1,2
+0,2,2,2,1,1,6,4,Sales and service,2,0,2
+2,1,1,2,1,0,6,40,"education, law and social, community, and government services",2,1,3
+0,1,1,2,0,1,6,9,Sales and service,2,1,3
+1,3,2,2,2,1,2,12,"Trades, transport and equipment operators",2,1,3
+2,1,1,2,1,1,6,5,Natural and applied sciences,2,0,3
+0,1,2,2,1,0,2,60,Sales and service,3,3,3
+0,2,1,1,1,1,6,10,Sales and service,2,1,2
+0,1,1,2,1,1,6,7,Business,2,0,3
+1,1,2,2,1,1,3,6,Manufacturing and utilities,2,2,3
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+2,2,0,2,0,0,6,60,Natural resources and agriculture,2,2,2
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+0,2,1,2,0,1,6,6,"Trades, transport and equipment operators",2,0,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+3,1,2,2,2,1,6,3,Business,2,2,2
+0,1,1,2,2,1,3,40,Natural and applied sciences,2,2,2
+1,2,2,2,1,1,4,33,Sales and service,2,0,2
+1,2,2,1,1,1,3,40,Natural resources and agriculture,2,1,1
+2,2,2,2,1,0,6,35,"education, law and social, community, and government services",2,1,3
+1,2,2,1,1,0,1,6,Health,2,1,2
+0,1,1,2,1,1,4,30,Business,2,1,2
+0,1,2,2,0,1,6,48,Health,2,0,2
+0,1,1,2,1,1,6,7,Health,2,0,3
+0,1,2,1,2,1,1,3,Business,2,0,2
+0,1,2,2,1,1,3,35,Business,2,3,3
+0,2,2,2,0,1,5,20,"education, law and social, community, and government services",3,0,3
+0,2,1,2,0,0,6,16,"education, law and social, community, and government services",1,1,3
+1,2,1,1,1,1,2,10,Business,2,1,3
+1,2,2,2,2,1,6,2,Sales and service,2,0,1
+1,1,1,2,1,1,6,40,Management,2,2,2
+1,1,1,2,1,1,6,40,Management,2,2,2
+1,2,2,2,1,1,6,35,Health,2,1,3
+2,1,1,2,1,1,2,38,Business,2,1,2
+1,1,1,2,1,1,6,3,Health,2,1,2
+2,1,1,1,0,1,6,50,Sales and service,2,3,3
+3,1,1,2,2,1,2,30,Business,2,1,3
+1,1,1,2,1,1,5,8,Business,2,0,1
+1,2,2,2,1,1,2,30,Sales and service,2,3,3
+0,1,2,1,2,0,4,28,Health,2,1,3
+0,2,2,2,1,1,3,6,"art, culture, recreation and sport",2,2,2
+3,1,1,2,1,1,5,35,Natural and applied sciences,2,0,2
+1,1,0,1,2,1,1,5,Natural and applied sciences,2,0,2
+1,1,1,1,1,1,6,5,Natural resources and agriculture,2,3,3
+0,2,2,1,1,1,1,40,Sales and service,2,1,3
+1,1,1,2,1,1,1,20,"Trades, transport and equipment operators",2,2,2
+2,2,2,2,2,0,6,40,"education, law and social, community, and government services",3,2,3
+4,2,2,2,1,1,6,20,"education, law and social, community, and government services",3,3,3
+0,1,1,1,1,1,6,10,Business,2,1,2
+1,2,0,2,1,1,6,49,Health,2,0,2
+0,2,2,2,1,1,1,34,Sales and service,2,0,2
+0,1,1,2,0,1,1,33,Sales and service,2,2,3
+0,1,1,2,0,0,6,15,"education, law and social, community, and government services",2,3,1
+0,1,2,2,2,1,1,8,Management,2,0,2
+3,2,2,2,1,0,6,37.5,Business,2,1,2
+0,2,2,2,1,1,6,8,Sales and service,1,0,2
+0,2,2,1,1,1,6,3,Management,2,2,3
+1,2,2,2,0,1,6,65,Health,2,0,3
+0,1,2,2,1,1,6,45,Business,2,1,3
+1,2,2,1,2,1,2,3,Health,2,0,2
+0,3,1,2,2,1,6,30,Health,2,2,3
+0,1,1,2,1,1,6,8,Business,2,3,2
+1,1,1,2,2,0,1,25,"Trades, transport and equipment operators",2,0,1
+0,1,2,2,2,1,6,25,"education, law and social, community, and government services",2,3,2
+1,1,1,2,1,1,1,4,Natural and applied sciences,2,0,2
+1,2,1,2,0,0,2,30,Sales and service,2,2,3
+1,2,2,2,0,1,6,40,"education, law and social, community, and government services",1,1,1
+2,1,1,2,2,1,6,40,Health,2,2,2
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,2,2,2,1,6,24,Health,2,3,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,1,1,2,1,1,1,2,Health,2,0,3
+0,1,1,1,1,1,6,30,Sales and service,2,2,3
+0,2,2,2,1,1,6,40,Management,2,2,3
+1,2,1,1,1,1,6,40,"education, law and social, community, and government services",2,1,3
+1,1,0,0,2,1,6,6,"art, culture, recreation and sport",2,1,2
+3,2,2,2,0,0,5,2,"Trades, transport and equipment operators",3,2,2
+1,2,1,2,1,1,6,8,"art, culture, recreation and sport",2,0,3
+1,2,1,2,1,1,6,8,"art, culture, recreation and sport",2,2,3
+1,2,1,2,1,1,6,8,"art, culture, recreation and sport",2,1,3
+1,1,2,2,1,1,6,56,"education, law and social, community, and government services",2,2,3
+1,1,1,1,1,1,6,6,Health,2,1,3
+1,1,1,2,2,1,1,15,Sales and service,2,1,2
+1,1,2,1,1,1,6,8,"education, law and social, community, and government services",2,2,3
+0,1,2,2,1,0,6,40,Management,1,1,2
+1,1,2,2,1,1,5,26,Health,2,2,1
+1,1,1,2,1,0,2,35,Natural resources and agriculture,2,2,3
+1,3,2,2,0,0,6,55,Management,2,0,2
+1,1,1,1,1,0,5,35,"Trades, transport and equipment operators",2,1,2
+1,1,2,1,2,0,2,40,"education, law and social, community, and government services",2,1,3
+1,2,2,2,2,1,6,8,Management,2,0,2
+1,1,2,2,2,1,6,9,Management,2,1,3
+1,1,2,2,2,1,6,9,Management,2,1,3
+1,1,2,2,1,1,1,36,"art, culture, recreation and sport",3,1,2
+1,2,1,2,0,0,6,40,Manufacturing and utilities,3,1,3
+2,1,1,2,1,1,6,40,Natural and applied sciences,2,1,2
+0,1,2,1,1,1,1,40,Sales and service,2,1,3
+1,1,2,2,1,0,5,20,Health,2,1,3
+1,1,2,2,2,1,1,2,Business,2,0,2
+1,1,2,2,1,1,6,30,Manufacturing and utilities,2,3,3
+1,1,2,2,1,1,2,35,Management,2,1,2
+3,1,0,0,0,1,6,40,Management,1,2,1
+0,2,1,2,2,1,6,40,Sales and service,2,1,1
+0,1,1,2,1,1,2,5,Health,2,1,3
+2,2,1,2,2,0,6,40,Natural and applied sciences,2,3,2
+0,1,2,2,1,0,6,40,Sales and service,2,0,2
+0,2,2,1,1,1,6,3,Management,2,2,3
+1,1,2,1,1,1,6,8,"education, law and social, community, and government services",2,1,3
+3,1,0,0,0,1,6,45,"Trades, transport and equipment operators",1,1,2
+0,2,1,2,1,1,6,5,Sales and service,2,1,1
+0,1,2,2,2,1,3,30,Management,3,0,3
+0,2,1,2,1,1,6,5,Sales and service,2,1,1
+0,1,2,2,0,1,6,36,Business,2,0,2
+0,1,1,2,2,1,5,12,Natural and applied sciences,2,0,2
+1,1,1,2,1,1,6,30,Manufacturing and utilities,2,1,3
+0,2,2,2,1,1,2,9,"Trades, transport and equipment operators",2,1,2
+4,1,1,0,1,1,6,20,Business,3,1,2
+4,2,1,2,1,0,6,25,"art, culture, recreation and sport",1,0,1
+3,2,2,2,1,0,6,30,"education, law and social, community, and government services",3,3,3
+2,2,1,2,1,0,6,55,Sales and service,2,3,2
+0,1,2,2,1,1,3,9,Health,2,0,3
+1,2,2,1,1,1,6,48,Management,2,3,3
+0,1,2,2,1,1,3,9,Health,2,0,3
+1,1,2,2,2,1,6,40,Sales and service,2,1,2
+0,1,2,2,2,1,6,6,Sales and service,2,0,1
+0,1,1,1,1,1,6,38,"art, culture, recreation and sport",2,2,3
+0,1,2,2,0,1,6,8,"art, culture, recreation and sport",2,0,1
+0,2,2,2,2,1,5,7,Health,2,0,1
+1,2,2,2,1,1,2,35,Natural resources and agriculture,2,3,3
+1,2,0,2,1,1,2,2,Business,2,0,2
+0,2,1,2,1,1,6,30,Business,2,3,3
+0,2,1,2,1,1,6,30,Business,2,3,3
+0,1,2,2,1,0,6,3,Management,2,2,3
+0,1,2,2,1,0,6,3,Management,2,2,3
+0,3,1,2,0,1,6,6,Management,2,2,2
+2,1,0,0,0,1,5,60,Management,2,3,2
+0,1,1,2,1,0,6,5,Sales and service,2,1,3
+1,2,2,2,1,1,5,40,Management,2,0,2
+0,1,1,2,1,1,6,7,Health,2,0,3
+0,2,1,2,1,1,6,10,Natural and applied sciences,2,0,2
+0,1,2,1,2,1,3,30,Management,3,0,3
+0,1,2,2,1,1,6,40,Sales and service,2,0,1
+1,1,2,1,2,0,5,15,Natural and applied sciences,2,0,3
+2,2,2,2,1,0,6,35,"education, law and social, community, and government services",3,1,2
+4,2,1,2,1,0,6,20,Management,3,1,3
+0,2,2,2,1,1,1,20,"education, law and social, community, and government services",2,1,3
+0,2,2,1,0,1,2,40,Sales and service,3,0,2
+1,2,2,2,0,1,1,40,Management,2,1,3
+1,1,1,2,1,0,6,35,Business,2,1,2
+3,2,2,2,1,1,6,35,"education, law and social, community, and government services",3,1,2
+1,2,2,2,1,1,6,20,Sales and service,2,3,3
+0,1,1,2,1,1,6,30,Health,2,1,3
+0,1,1,2,1,1,5,6,Sales and service,2,0,2
+2,2,2,2,1,1,6,5,Business,3,2,1
+4,2,2,2,1,0,6,37.5,Health,2,2,1
+2,3,0,1,0,1,2,6,Natural resources and agriculture,1,3,3
+0,2,1,2,1,1,6,10,Natural and applied sciences,2,0,3
+0,2,1,1,1,1,1,28,"education, law and social, community, and government services",2,1,2
+1,2,2,2,2,1,2,2,Business,2,0,2
+3,1,2,1,1,0,2,50,Natural and applied sciences,3,3,3
+0,2,2,2,1,1,6,8,Management,3,2,3
+0,1,2,2,0,1,6,40,Management,2,0,3
+2,2,2,1,0,1,6,20,"Trades, transport and equipment operators",2,0,2
+1,1,1,2,1,1,6,10,Health,2,1,2
+1,1,1,2,1,1,6,30,Manufacturing and utilities,2,0,3
+0,2,2,2,2,1,6,35,Health,2,2,2
+1,1,2,1,1,1,2,15,Sales and service,2,1,3
+2,2,2,1,1,1,4,5,"education, law and social, community, and government services",2,1,2
+4,1,1,2,1,1,6,30,Management,2,1,2
+3,1,1,2,1,1,6,32,Sales and service,1,1,1
+0,2,2,2,1,0,6,2,Sales and service,3,2,1
+0,1,2,2,2,1,6,35,Management,2,0,3
+0,2,1,2,1,1,3,6,Sales and service,2,3,2
+2,1,1,1,0,1,6,40,Management,3,1,2
+2,2,1,2,0,0,6,32,"education, law and social, community, and government services",2,1,1
+0,1,1,2,0,1,6,40,Business,2,2,3
+0,1,1,1,2,1,6,3,"art, culture, recreation and sport",2,2,3
+1,2,2,1,0,0,3,40,Business,2,1,2
+2,2,2,1,1,1,6,5,"education, law and social, community, and government services",2,1,3
+3,1,2,2,1,0,6,40,Management,2,0,1
+0,2,2,2,1,1,6,8,Sales and service,2,0,2
+3,1,1,1,1,1,6,7,Natural resources and agriculture,2,1,1
+1,2,1,2,1,1,6,24,Business,2,1,2
+0,1,2,2,1,0,2,40,Sales and service,1,1,3
+0,1,0,0,0,1,6,9,Health,2,2,3
+0,3,2,2,1,1,2,4,Sales and service,2,0,3
+0,1,1,2,1,1,6,5,Business,2,0,3
+2,1,2,1,1,1,3,15,"Trades, transport and equipment operators",2,2,3
+0,1,1,2,1,1,6,30,Business,2,2,3
+4,2,2,1,0,1,6,40,Business,2,3,2
+2,2,2,2,1,1,6,32,"education, law and social, community, and government services",2,1,2
+0,1,1,2,1,1,6,25,"education, law and social, community, and government services",2,1,3
+2,2,2,2,1,1,6,40,"education, law and social, community, and government services",2,2,3
+3,1,2,2,1,1,2,13,Manufacturing and utilities,2,2,3
+0,2,1,1,1,1,6,37,"education, law and social, community, and government services",2,1,3
+1,1,1,1,1,1,3,35,Natural and applied sciences,2,1,2
+1,2,2,2,2,1,6,40,Management,2,0,2
+0,2,1,2,2,1,6,25,Business,2,2,3
+0,1,2,1,2,1,1,3,Business,2,0,2
+1,1,2,1,1,1,6,9,"art, culture, recreation and sport",2,2,3
+2,2,1,2,1,1,6,37,Business,3,0,3
+4,2,2,2,1,0,5,24,"education, law and social, community, and government services",1,1,2
+1,2,2,2,0,1,6,40,Health,2,3,3
+0,1,2,2,1,1,3,40,Business,2,1,1
+1,2,2,2,1,1,6,30,"education, law and social, community, and government services",2,3,3
+1,2,2,1,1,1,3,6,"education, law and social, community, and government services",2,0,2
+2,1,1,1,1,0,6,20,Sales and service,3,1,3
+0,2,1,2,2,1,4,5,Management,2,0,2
+1,2,1,2,1,1,6,8,"art, culture, recreation and sport",2,1,2
+4,2,2,2,1,0,6,32.5,"education, law and social, community, and government services",3,2,3
+3,2,2,2,1,0,6,35,"education, law and social, community, and government services",3,0,2
+0,1,0,1,1,1,6,35,"education, law and social, community, and government services",2,2,2
+4,2,2,2,1,1,6,32.5,Health,3,1,2
+0,1,1,1,1,1,3,4,Sales and service,3,0,2
+3,2,2,2,1,1,6,40,"education, law and social, community, and government services",1,1,1
+3,2,2,2,1,1,6,35,Health,2,2,3
+1,1,1,2,1,1,6,3,Health,2,1,2
+1,1,1,2,1,1,6,3,Health,2,1,3
+1,1,1,2,1,1,6,3,Health,2,1,3
+1,2,2,2,1,1,5,25,"art, culture, recreation and sport",2,1,3
+4,1,1,1,1,0,6,3,"education, law and social, community, and government services",3,2,3
+0,1,1,2,1,0,2,40,"education, law and social, community, and government services",3,1,3
+1,2,1,2,2,1,6,8,Sales and service,2,1,3
+0,1,1,1,2,1,6,35,Sales and service,2,2,3
+2,2,2,2,2,0,6,20,"education, law and social, community, and government services",2,0,2
+1,1,1,0,2,0,2,4,Business,2,0,2
+0,2,1,2,1,1,6,6,Management,2,0,2
+0,1,2,2,0,0,6,30,Sales and service,1,2,1
+2,2,2,2,0,1,6,50,Sales and service,1,2,1
+0,2,2,2,1,1,6,14,Health,2,1,2
+1,1,2,2,2,1,6,30,"art, culture, recreation and sport",2,0,3
+1,2,1,0,2,1,6,40,"education, law and social, community, and government services",2,1,2
+1,1,2,2,1,1,6,35,Management,2,2,3
+1,1,1,2,0,1,2,50,Manufacturing and utilities,2,1,3
+2,1,1,1,2,1,6,28,Health,3,1,3
+4,1,2,2,1,0,6,37.5,"education, law and social, community, and government services",3,2,3
+4,2,1,2,1,0,6,25,Sales and service,3,1,3
+0,1,1,1,2,1,6,5,Natural resources and agriculture,2,1,2
+1,1,2,2,1,1,6,56,Natural and applied sciences,2,3,3
+1,1,1,2,1,0,5,10,"art, culture, recreation and sport",2,0,1
+1,2,1,0,2,1,6,42,Management,2,1,3
+1,2,1,2,0,0,6,40,Health,2,3,3
+3,2,1,2,1,0,6,20,Business,2,1,3
+0,2,1,2,0,1,5,15,Sales and service,1,0,3
+1,2,1,2,1,1,6,40,"art, culture, recreation and sport",3,3,3
+2,2,2,2,0,0,6,6,Sales and service,1,0,1
+1,3,2,2,0,1,2,8,"art, culture, recreation and sport",2,1,3
+4,1,1,1,0,1,6,40,"Trades, transport and equipment operators",1,1,3
+4,1,2,2,2,0,6,2,Natural resources and agriculture,1,1,2
+2,1,2,1,2,0,6,35,Health,1,0,1
+2,3,2,2,1,1,5,35,"education, law and social, community, and government services",2,2,3
+0,1,2,2,2,1,6,60,Natural and applied sciences,2,1,2
+3,2,2,2,1,0,3,40,Health,1,0,2
+3,1,0,1,0,1,6,40,"Trades, transport and equipment operators",1,1,1
+4,1,1,1,1,1,6,10,Natural and applied sciences,2,1,3
+0,1,0,1,1,1,6,30,Business,2,1,2
+0,1,2,1,1,1,6,6,Sales and service,2,1,2
+0,1,1,1,1,1,6,8,Natural and applied sciences,2,1,3
+1,2,2,2,0,0,6,40,"education, law and social, community, and government services",3,2,3
+2,2,1,2,1,1,6,2,"education, law and social, community, and government services",2,1,2
+3,2,2,2,1,1,6,35,"education, law and social, community, and government services",1,2,3
+1,1,2,2,0,0,4,8,Natural resources and agriculture,2,0,2
+2,2,1,2,1,1,6,35,Sales and service,2,1,2
+3,3,0,1,0,1,5,20,"education, law and social, community, and government services",1,1,3
+0,2,2,2,0,0,6,16,"education, law and social, community, and government services",1,2,3
+0,1,2,2,1,1,3,5,"education, law and social, community, and government services",2,2,2
+1,1,2,2,1,0,1,60,Sales and service,2,1,1
+0,2,2,2,1,1,6,35,Sales and service,2,2,3
+1,1,1,1,2,0,6,33,Natural and applied sciences,2,1,3
+4,2,2,2,0,1,6,40,Sales and service,1,1,3
+1,1,1,2,2,1,1,15,Sales and service,2,1,2
+1,1,2,1,1,1,6,9,"art, culture, recreation and sport",2,1,3
+3,2,1,2,1,1,6,50,"education, law and social, community, and government services",2,3,3
+0,2,2,2,1,1,6,30,Business,2,3,3
+1,2,1,2,0,0,6,50,Health,2,0,3
+1,1,1,2,1,1,6,80,Health,2,0,2
+0,1,1,1,2,1,6,25,Management,2,0,2
+0,1,2,2,1,0,6,5,"art, culture, recreation and sport",3,3,1
+3,1,1,2,1,0,6,40,"Trades, transport and equipment operators",1,2,1
+0,2,2,2,1,0,5,32,Health,1,1,3
+1,1,2,2,1,1,4,48,Management,2,3,3
+0,1,1,2,1,1,2,3,Natural and applied sciences,2,0,2
+2,2,2,2,1,1,6,10,"education, law and social, community, and government services",3,0,3
+0,2,1,2,2,1,6,30,Management,2,1,3
+4,1,1,1,1,0,6,70,Natural resources and agriculture,3,0,3
+1,2,0,1,2,1,6,7,Natural resources and agriculture,2,1,3
+3,1,1,2,0,1,3,30,Health,2,1,3
+0,2,1,2,1,1,1,30,Health,2,3,3
+1,1,1,1,2,1,6,20,Sales and service,2,2,2
+1,1,2,2,1,1,6,7,"Trades, transport and equipment operators",2,2,3
+0,2,2,0,0,0,5,37.5,Sales and service,1,0,2
+0,2,1,2,1,1,6,5,Sales and service,2,1,1
+4,2,1,2,2,1,6,20,Health,3,2,3
+1,1,2,2,2,1,2,6,Natural resources and agriculture,2,3,3
+2,2,1,2,1,0,6,40,"education, law and social, community, and government services",2,2,3
+0,2,1,2,1,1,1,40,Sales and service,2,1,3
+2,2,2,2,2,1,6,19,Health,2,2,1
+0,2,0,1,0,0,5,16,Sales and service,1,0,1
+0,2,1,2,1,1,5,8,Health,2,0,2
+0,1,1,2,1,1,5,30,Natural and applied sciences,2,0,3
+1,1,2,1,2,1,6,30,Business,2,3,2
+0,1,1,0,1,1,6,35,Natural and applied sciences,2,1,3
+1,2,2,2,1,1,6,48,Management,2,2,3
+2,2,1,2,0,1,6,40,Health,1,1,1
+2,1,2,2,1,1,3,7,Health,2,0,3
+4,1,2,2,1,0,6,6,Sales and service,1,0,2
+1,2,2,2,1,0,6,40,Management,1,0,3
+0,1,1,2,1,1,6,35,Business,2,3,3
+3,2,2,2,1,0,6,25,"education, law and social, community, and government services",3,0,3
+2,1,2,2,0,1,6,20,Sales and service,2,0,1
+0,1,2,1,1,1,1,40,Sales and service,2,1,3
+4,2,2,2,1,1,2,20,Management,3,2,3
+0,2,2,2,1,1,6,45,"education, law and social, community, and government services",3,1,3
+1,2,2,2,1,0,6,35,"education, law and social, community, and government services",2,2,3
+4,2,2,2,1,1,6,40,Management,2,2,2
+0,1,1,0,1,1,6,5,Management,2,0,3
+3,2,1,2,2,1,6,35,Health,2,2,3
+0,1,1,2,0,1,6,10,"education, law and social, community, and government services",2,2,3
+3,2,1,1,0,1,5,40,Sales and service,1,3,2
+0,1,2,1,1,1,5,39,"Trades, transport and equipment operators",3,1,3
+0,1,2,2,1,1,1,10,Sales and service,2,1,2
+3,2,1,2,1,1,6,5,Health,2,0,3
+0,1,1,2,2,1,6,20,Business,2,2,3
+4,1,2,2,0,0,6,45,Natural resources and agriculture,2,2,1
+1,2,2,2,2,1,6,8,Sales and service,2,0,2
+0,1,2,2,2,1,6,35,Natural and applied sciences,2,3,3
+3,2,1,2,1,0,6,40,"education, law and social, community, and government services",1,2,3
+1,2,2,2,1,1,3,8,Business,2,2,2
+4,2,2,2,2,1,6,37,Business,3,1,2
+4,1,2,1,1,0,6,5,"education, law and social, community, and government services",3,0,3
+4,2,2,2,1,1,6,15,"education, law and social, community, and government services",2,2,3
+1,2,2,2,0,1,6,40,Management,2,0,3
+0,1,1,2,1,1,6,6,Natural resources and agriculture,2,1,2
+0,1,0,1,1,1,6,30,Business,2,1,2
+3,1,2,2,1,0,6,40,Business,2,3,3
+0,1,1,1,0,1,4,8,"Trades, transport and equipment operators",2,1,2
+1,2,2,2,0,1,6,28,Health,3,1,3
+4,1,2,2,1,1,6,10,"education, law and social, community, and government services",3,0,3
+0,2,1,2,1,1,6,35,Sales and service,2,2,2
+0,2,2,2,0,1,6,2,"education, law and social, community, and government services",3,2,1
+1,1,2,2,1,0,2,49,"education, law and social, community, and government services",1,1,3
+1,1,2,1,1,1,6,15,"education, law and social, community, and government services",2,1,3
+3,2,1,2,0,0,6,50,Management,3,1,3
+0,1,2,2,0,1,2,40,Business,3,2,3
+1,1,2,2,0,1,6,37.5,"education, law and social, community, and government services",3,3,3
+4,1,1,2,2,1,5,2,"education, law and social, community, and government services",3,2,3
+3,2,2,2,1,0,3,35,Sales and service,1,1,2
+0,1,0,2,1,1,2,40,Sales and service,2,0,1
+0,3,1,2,0,1,6,6,Management,2,2,2
+2,1,2,2,1,1,2,37.5,Sales and service,3,0,1
+3,1,0,1,2,0,6,40,Sales and service,2,2,2
+3,1,2,2,1,0,6,40,"education, law and social, community, and government services",3,1,3
+2,1,2,2,1,1,6,30,Management,2,0,1
+0,2,1,1,0,0,6,4,"education, law and social, community, and government services",2,0,1
+2,1,1,1,1,0,6,40,Sales and service,1,1,3
+0,1,2,1,1,1,5,5,Business,2,0,2
+0,1,1,2,1,1,6,6,Natural resources and agriculture,2,1,2
+4,2,1,1,0,0,6,50,Management,2,1,1
+0,2,1,2,2,1,1,8,"education, law and social, community, and government services",2,1,1
+4,2,1,2,2,1,6,26,Health,1,2,3
+0,1,2,2,1,1,6,3,"education, law and social, community, and government services",2,0,3
+0,1,2,2,1,1,6,3,"education, law and social, community, and government services",2,0,3
+2,2,2,2,1,0,6,20,"art, culture, recreation and sport",3,1,3
+1,1,2,2,2,1,6,20,Business,2,2,3
+0,2,1,1,1,1,3,3,Natural and applied sciences,3,1,2
+0,1,1,2,0,1,6,25,"education, law and social, community, and government services",2,3,1
+3,2,2,2,1,0,6,35,"education, law and social, community, and government services",2,2,2
+4,2,2,2,2,1,6,30,Sales and service,1,2,3
+2,2,1,2,2,1,6,60,"education, law and social, community, and government services",2,2,3
+1,2,2,2,2,1,5,20,Natural resources and agriculture,2,0,3
+1,2,2,2,2,1,6,30,Sales and service,2,0,1
+0,1,1,1,0,1,6,14,Health,3,1,2
+1,1,2,2,2,1,2,40,Management,3,0,3
+4,1,1,2,1,0,6,35,Sales and service,1,1,2
+0,2,2,2,1,1,6,30,"art, culture, recreation and sport",2,2,3
+0,1,2,2,1,1,1,35,"education, law and social, community, and government services",2,1,2
+1,2,2,2,2,1,6,6,Sales and service,2,0,2
+0,2,2,2,1,1,1,16,"art, culture, recreation and sport",2,1,2
+2,3,0,1,1,1,2,37,Natural resources and agriculture,1,1,3
+1,2,2,2,0,0,6,35,"art, culture, recreation and sport",3,3,3
+0,2,1,2,1,1,6,30,Business,2,3,3
+0,3,1,2,2,0,2,4,"Trades, transport and equipment operators",2,1,3
+3,2,2,2,1,0,6,35,Business,3,3,2
+4,2,2,2,2,1,6,16,"education, law and social, community, and government services",1,1,2
+4,1,1,2,0,0,6,20,Management,3,1,2
+4,1,2,2,1,1,3,10,"education, law and social, community, and government services",2,1,1
+0,1,1,1,1,1,6,35,Natural and applied sciences,2,3,3
+3,2,2,2,2,0,6,25,Sales and service,1,0,2
+2,2,1,2,0,0,6,42.5,Sales and service,1,1,2
+1,2,1,1,0,1,6,40,"education, law and social, community, and government services",1,3,3
+3,1,1,2,2,1,6,37,Health,2,2,3
+2,1,2,2,1,1,6,80,"education, law and social, community, and government services",2,0,3
+2,2,1,2,2,0,6,21,Sales and service,2,0,3
+0,2,2,1,1,1,1,40,Sales and service,2,1,3
+0,2,1,2,1,1,1,40,Natural and applied sciences,2,0,3
+2,2,2,2,0,0,6,40,Health,1,2,2
+0,2,0,1,1,1,6,40,Business,2,2,2
+0,1,2,2,1,1,6,3,"education, law and social, community, and government services",2,0,3
+1,2,0,2,1,1,6,30,Business,2,2,2
+1,2,2,2,1,1,6,50,Management,2,1,3
+2,2,1,2,2,1,6,8,Health,2,1,3
+1,2,2,2,0,0,6,20,Sales and service,3,0,3
+0,1,1,0,1,1,6,5,Management,2,0,3
+2,1,2,2,2,1,6,30,Manufacturing and utilities,2,2,2
+3,2,2,2,1,0,6,40,Management,2,3,3
+0,1,1,2,1,1,6,7,Health,2,0,3
+3,2,2,2,1,1,6,24,Manufacturing and utilities,1,0,1
+3,1,0,1,2,0,6,40,Sales and service,2,2,2
+3,2,2,2,1,0,6,45,"education, law and social, community, and government services",3,3,3
+4,3,2,2,1,1,6,32,Natural resources and agriculture,1,2,2
+3,2,2,2,2,0,6,37.5,Health,1,2,1
+0,2,2,2,2,1,6,10,"education, law and social, community, and government services",2,2,1
+4,1,2,2,2,0,6,35,"education, law and social, community, and government services",3,1,3
+2,1,2,2,1,1,6,18,Health,2,1,3
+1,1,2,1,1,1,6,15,Health,2,1,3
+3,2,1,2,1,0,6,48,Management,3,2,2
+1,1,1,2,2,1,6,35,Health,1,2,3
+3,2,1,1,1,0,6,30,"education, law and social, community, and government services",2,1,3
+2,3,1,2,1,0,6,40,"education, law and social, community, and government services",1,1,1
+1,1,1,1,2,0,6,40,Natural resources and agriculture,2,1,3
+3,2,2,2,1,0,5,25,Business,2,0,3
+0,1,2,2,1,1,6,3,"education, law and social, community, and government services",2,0,3
+2,1,2,2,2,1,6,24,Management,3,0,3
+0,1,1,2,1,1,6,35,Natural and applied sciences,2,1,3
+1,1,1,1,1,1,6,35,Natural and applied sciences,2,2,3
+1,1,1,1,1,1,6,30,Sales and service,2,2,3
+3,1,2,2,2,0,6,60,Business,3,3,3
+0,2,2,2,0,0,6,40,Natural and applied sciences,2,1,3
+3,1,0,1,2,0,6,40,Sales and service,2,2,2
+3,2,1,2,1,0,6,10,"art, culture, recreation and sport",2,0,2
+2,2,2,2,1,0,6,30,"education, law and social, community, and government services",3,1,3
+4,1,2,2,1,1,6,47,Management,1,2,1
+2,2,0,0,1,0,5,7,Sales and service,2,1,3
+2,1,2,2,2,1,6,6,"education, law and social, community, and government services",2,2,3
+0,1,2,2,2,1,6,35,Business,2,3,3
+0,1,0,2,2,1,1,35,Sales and service,1,1,2
+1,2,2,2,1,1,5,36.3,Business,2,3,3
+1,1,2,2,0,0,2,50,Sales and service,1,1,3
+4,2,2,2,1,1,6,5,"art, culture, recreation and sport",2,1,3
+1,1,2,2,1,1,6,35,Health,2,1,2
+0,2,1,1,1,1,6,12,Natural and applied sciences,2,1,2
+1,1,1,1,2,1,5,40,Management,2,3,3
+0,1,2,1,0,1,6,22,"education, law and social, community, and government services",2,3,1
+0,1,2,1,2,1,6,6,Sales and service,2,0,1
+0,2,1,2,2,0,5,3,"education, law and social, community, and government services",2,0,2
+1,2,1,2,1,1,2,5,Sales and service,2,1,3
+0,1,1,2,2,1,2,5,Management,2,1,2
+1,1,2,2,1,1,6,40,"art, culture, recreation and sport",2,3,3
+1,2,1,2,0,1,6,4,Sales and service,2,1,2
+0,2,1,2,1,1,5,8,Health,2,0,2
+0,2,2,1,0,1,6,60,Natural and applied sciences,3,2,2
+1,2,2,2,2,1,6,40,"art, culture, recreation and sport",2,1,3
+1,2,2,2,1,1,5,2,Natural resources and agriculture,2,1,3
+2,2,2,2,0,0,6,35,Health,2,1,3
+4,2,2,2,1,1,6,35,"education, law and social, community, and government services",3,2,3
+2,2,1,2,0,0,6,30,Sales and service,2,0,2
+0,1,1,2,0,0,6,15,Sales and service,2,1,1
+2,2,2,2,0,1,6,40,Management,3,2,2
+3,2,2,2,0,1,6,10,Health,2,0,2
+2,1,1,1,0,0,6,20,"Trades, transport and equipment operators",2,1,2
+1,1,1,1,1,1,2,8,Health,2,1,2
+3,2,2,2,1,0,6,30,"education, law and social, community, and government services",2,0,2
+0,1,2,2,1,1,5,8,"education, law and social, community, and government services",2,2,1
+4,1,1,0,0,1,6,35,"Trades, transport and equipment operators",2,1,2
+1,2,2,2,2,0,6,40,Health,1,1,2
+1,1,2,2,0,0,5,80,"Trades, transport and equipment operators",2,0,3
+3,2,2,2,1,1,6,35,"education, law and social, community, and government services",2,1,3
+0,3,1,2,0,0,6,15,Natural resources and agriculture,1,0,1
+0,2,2,2,0,1,6,10,Natural and applied sciences,2,2,3
+1,2,2,2,0,1,6,40,Business,2,1,2
+4,1,2,2,1,0,6,60,Health,1,1,2
+0,1,1,2,1,1,6,40,Sales and service,1,2,2
+3,1,2,2,0,1,6,40,"education, law and social, community, and government services",2,1,2
+1,1,1,2,2,1,1,35,Sales and service,2,3,3
+0,2,2,2,0,0,2,40,Manufacturing and utilities,1,0,3
+1,1,1,2,2,0,5,60,Sales and service,2,0,2
+1,1,1,2,2,0,5,60,Sales and service,2,0,2
+0,2,2,2,0,0,2,40,Manufacturing and utilities,1,0,3
+1,1,1,1,1,1,2,4,Health,2,0,3
+1,2,0,2,1,1,5,5,Health,2,0,3
+2,2,1,2,2,1,6,35,Health,2,2,2
+0,1,1,1,1,1,4,2,"education, law and social, community, and government services",2,2,3
+1,1,1,2,1,1,6,35,Management,2,1,2
+2,2,1,1,1,0,6,37.5,Business,3,3,3
+1,1,2,2,1,1,6,2,Management,2,1,3
+0,1,1,2,1,1,6,40,Manufacturing and utilities,2,1,3
+1,1,2,2,0,0,2,37,Sales and service,1,0,3
+1,2,2,2,2,1,6,40,Management,2,1,3
+3,2,2,2,1,0,6,60,"education, law and social, community, and government services",2,3,3
+2,2,1,2,2,0,4,8,"art, culture, recreation and sport",2,1,3
+1,1,1,1,0,1,3,6,Business,2,1,2
+3,2,2,2,0,1,6,35,Business,2,0,2
+2,2,1,2,1,1,6,25,Sales and service,1,1,3
+1,1,0,1,2,0,5,3,"art, culture, recreation and sport",1,2,2
+2,2,1,2,0,1,6,40,"education, law and social, community, and government services",3,1,3
+1,2,1,2,1,1,1,40,Management,2,1,2
+1,2,1,2,0,0,6,30,"education, law and social, community, and government services",1,2,3
+3,2,1,2,0,0,6,35,Business,1,1,2
+1,2,2,2,1,1,6,40,"education, law and social, community, and government services",3,0,2
+0,2,2,2,2,0,6,35,Sales and service,2,2,1
+0,1,1,2,0,1,3,25,Business,2,2,2
+4,2,2,2,1,0,6,20,"education, law and social, community, and government services",3,3,3
+1,1,2,2,1,1,6,20,Sales and service,2,0,1
+1,1,2,2,1,1,6,20,Sales and service,2,0,1
+1,1,2,2,1,1,6,20,Sales and service,2,0,1
+4,2,2,2,0,1,6,40,"education, law and social, community, and government services",3,2,2
+2,1,2,2,1,0,1,37,Natural resources and agriculture,2,1,1
+1,2,2,2,2,1,6,40,Health,2,1,2
+0,1,0,0,0,1,6,8,Natural and applied sciences,2,2,3
+0,2,2,2,2,1,2,6,Sales and service,2,3,3
+2,2,2,2,1,1,6,25,"education, law and social, community, and government services",2,3,2
+0,1,0,1,2,1,4,26,Natural and applied sciences,2,1,3
+1,1,2,2,1,1,6,6,Manufacturing and utilities,2,2,3
+0,2,1,1,2,1,1,5,Business,2,0,2
+3,1,1,2,1,0,6,40,Sales and service,1,1,1
+1,1,1,1,1,1,1,8,"Trades, transport and equipment operators",2,0,3
+3,2,2,2,1,1,6,40,Health,1,0,2
+4,2,2,2,1,1,6,15,"education, law and social, community, and government services",3,1,3
+1,2,1,2,0,0,6,38,"education, law and social, community, and government services",2,0,2
+1,3,1,2,1,0,6,10,"education, law and social, community, and government services",1,0,2
+1,2,2,2,1,0,6,15,"education, law and social, community, and government services",3,0,3
+0,3,1,1,2,0,5,33,Sales and service,2,0,2
+2,2,2,2,1,1,6,35,Health,3,1,3
+3,1,1,2,1,1,6,40,Sales and service,1,1,2
+3,2,2,2,1,1,6,45,"education, law and social, community, and government services",2,1,3
+2,1,2,2,1,1,1,40,"Trades, transport and equipment operators",2,1,1
+0,1,1,1,1,1,6,8,"art, culture, recreation and sport",2,0,2
+2,1,2,2,1,1,3,7,Health,2,0,3
+3,2,2,2,1,0,4,40,"education, law and social, community, and government services",3,2,3
+2,2,1,2,1,1,5,35,"education, law and social, community, and government services",2,1,3
+0,1,2,2,0,1,1,55,"education, law and social, community, and government services",3,1,3
+3,2,1,0,0,1,6,12,Health,1,2,3
+2,2,1,1,1,1,3,5,Management,3,1,3
+0,2,2,2,0,1,6,15,Manufacturing and utilities,2,1,3
+0,2,2,2,0,1,6,15,Manufacturing and utilities,2,1,3
+0,1,2,2,2,1,6,30,Management,2,2,1
+0,1,1,2,2,1,2,5,"Trades, transport and equipment operators",2,1,2
+0,1,1,2,1,1,6,5,Natural and applied sciences,2,0,2
+0,2,1,2,0,0,5,30,"art, culture, recreation and sport",3,0,3
+0,2,0,2,1,1,3,6,Business,2,0,2
+0,1,1,2,1,1,3,40,Business,2,0,1
+2,2,0,1,0,1,6,40,Business,1,2,2
+1,2,2,2,1,1,6,35,"art, culture, recreation and sport",2,1,3
+2,2,1,2,1,1,6,25,Business,3,0,3
+0,1,2,2,2,1,3,30,Business,2,2,1
+0,2,1,1,0,1,2,30,"art, culture, recreation and sport",3,1,2
+1,2,1,1,0,0,6,50,"art, culture, recreation and sport",1,1,1
+3,2,2,2,1,1,6,50,"education, law and social, community, and government services",1,1,2
+0,2,1,1,0,0,6,28,"education, law and social, community, and government services",2,1,3
+2,2,2,2,1,1,6,28,Sales and service,1,2,1
+3,2,2,2,1,1,6,45,"education, law and social, community, and government services",2,1,3
+3,2,1,2,1,1,6,35,Sales and service,1,1,2
+0,2,1,2,1,1,6,8,"education, law and social, community, and government services",1,0,2
+1,2,2,2,1,1,6,40,Manufacturing and utilities,1,1,1
+0,1,2,2,0,0,6,20,Manufacturing and utilities,1,0,1
+1,2,2,1,2,1,6,66,Health,2,0,2
+1,1,1,2,2,1,3,5,"education, law and social, community, and government services",2,1,3
+1,2,1,1,2,1,6,35,"education, law and social, community, and government services",2,2,3
+3,2,2,2,1,1,6,29,Health,1,1,1
+3,2,2,1,1,1,6,15,Natural and applied sciences,1,0,3
+0,1,1,2,1,0,6,43,"education, law and social, community, and government services",2,2,3
+1,1,2,2,0,1,6,40,"Trades, transport and equipment operators",1,2,1
+2,2,2,1,1,1,6,70,Health,3,0,2
+3,2,1,1,1,0,6,35,"education, law and social, community, and government services",2,2,2
+0,2,1,0,2,1,1,6,Business,2,0,1
+1,1,1,2,1,1,6,8,Health,2,1,3
+1,1,1,2,1,1,6,8,Health,2,0,3
+1,1,1,2,1,1,6,8,Health,2,1,3
+0,1,2,2,1,1,6,30,Natural and applied sciences,2,2,2
+2,2,1,2,1,1,6,56,Sales and service,2,2,2
+2,1,2,2,1,0,2,36,Health,1,0,3
+0,2,2,2,0,1,6,10,"education, law and social, community, and government services",3,0,1
+1,1,2,1,2,1,1,35,Sales and service,2,3,3
+1,1,1,2,1,1,6,15,Sales and service,1,1,2
+1,1,1,2,1,1,6,30,"Trades, transport and equipment operators",2,0,3
+1,2,1,1,0,1,4,8,Health,2,1,3
+0,2,1,2,1,0,6,24,Health,2,0,2
+3,2,2,2,1,0,6,37.5,"education, law and social, community, and government services",3,1,2
+4,2,1,1,0,1,6,15,Health,1,2,2
+0,2,2,2,1,1,6,35,Health,2,1,3
+1,2,2,2,1,0,6,9,Management,2,2,3
+0,1,1,1,2,0,6,30,Business,2,2,2
+2,2,2,2,1,1,6,8,Sales and service,2,0,3
+3,2,2,2,0,0,6,5,"education, law and social, community, and government services",3,0,3
+3,1,1,2,1,1,6,50,Business,2,0,2
+0,1,2,2,0,1,6,40,Management,2,0,3
+2,1,2,2,1,0,6,37.5,"education, law and social, community, and government services",3,3,3
+1,1,2,2,2,1,5,20,Health,2,0,3
+0,1,2,2,2,1,6,30,Management,2,2,1
+4,2,1,2,1,1,6,12,"art, culture, recreation and sport",2,0,3
+4,2,2,2,1,1,6,17.5,"education, law and social, community, and government services",1,3,2
+1,2,1,2,0,1,6,45,Business,3,2,3
+1,1,1,1,2,1,1,10,Management,2,1,3
+4,2,2,2,1,0,6,35,Sales and service,1,2,1
+1,2,1,2,0,0,6,30,Management,3,1,2
+4,2,2,2,1,1,6,2,Business,3,2,3
+0,1,2,2,2,1,3,4,"education, law and social, community, and government services",2,3,3
+0,2,2,2,1,1,6,4,Business,2,2,2
+0,1,2,2,2,1,3,10,Sales and service,3,0,3
+2,2,1,2,1,0,6,50,Health,1,3,3
+0,1,2,2,1,1,2,4,"Trades, transport and equipment operators",2,0,3
+0,1,1,2,1,1,1,5,"education, law and social, community, and government services",2,1,2
+0,1,1,1,1,1,1,3,"education, law and social, community, and government services",2,0,3
+0,1,1,2,0,1,6,40,"education, law and social, community, and government services",2,2,3
+4,2,2,2,2,1,6,37.5,Health,1,1,2
+1,2,1,2,2,1,3,35,Management,2,2,3
+1,2,1,2,2,1,3,35,Management,2,2,3
+0,1,0,1,1,1,4,8,Health,3,1,3
+1,1,2,2,1,1,6,10,Manufacturing and utilities,1,0,1
+1,2,2,2,1,1,2,20,Management,3,2,3
+2,1,2,2,1,1,6,30,Business,3,0,2
+0,1,1,2,1,1,6,80,"art, culture, recreation and sport",2,0,2
+0,2,2,1,2,0,2,34,Management,2,2,3
+0,1,2,2,2,1,6,25,Management,2,0,2
+3,2,2,2,1,1,2,30,Business,1,1,3
+0,1,2,2,0,0,6,50,Business,3,2,3
+0,2,1,1,1,1,6,40,Sales and service,2,0,2
+0,1,2,2,1,1,6,42,Sales and service,2,0,2
+1,2,2,2,0,0,6,45,"education, law and social, community, and government services",3,0,3
+0,1,1,2,1,0,5,24,"art, culture, recreation and sport",2,0,2
+1,1,2,2,2,1,6,40,Management,2,1,3
+0,2,2,2,1,1,5,8,"art, culture, recreation and sport",2,0,2
+2,2,2,2,1,1,6,20,Management,3,2,3
+0,1,2,2,2,1,4,20,"education, law and social, community, and government services",3,0,3
+1,2,2,2,0,0,2,25,Business,3,3,3
+0,1,2,2,1,1,6,14,"art, culture, recreation and sport",2,1,2
+0,2,1,0,1,1,6,4,Management,2,1,1
+0,2,1,0,1,1,6,4,Management,2,1,1
+0,1,1,2,1,1,6,35,Health,2,1,3
+0,1,2,2,1,1,6,6,Business,2,0,2
+4,2,1,1,1,1,6,7,Business,1,1,2
+4,1,2,1,1,0,6,6,"art, culture, recreation and sport",3,3,1
+1,2,2,2,1,1,2,48,Management,2,3,3
+1,2,2,1,1,1,2,48,Management,2,3,3
+1,2,2,2,1,1,6,48,Management,2,2,3
+1,1,2,2,1,1,2,48,Management,2,2,3
+0,2,1,1,1,1,6,5,Management,2,0,3
+0,2,2,1,1,1,3,5,Natural and applied sciences,2,1,3
+0,2,1,1,1,1,1,6,Sales and service,1,0,2
+0,2,2,2,0,0,2,20,Sales and service,1,0,3
+3,1,2,2,1,1,6,37.5,Management,2,3,1
+0,2,2,2,0,0,6,15,"art, culture, recreation and sport",3,0,3
+0,2,2,2,2,1,1,4,Sales and service,2,2,2
+0,2,2,2,2,1,1,4,Sales and service,2,2,2
+0,2,2,2,2,1,1,5,"art, culture, recreation and sport",2,2,3
+0,1,2,2,2,1,3,40,Management,2,2,3
+0,2,2,2,2,1,1,4,Sales and service,2,1,3
+0,2,0,2,1,0,3,4,Business,2,2,2
+0,1,2,2,0,1,5,6,Business,2,1,2
+1,2,2,2,2,1,1,5,Sales and service,2,2,3
+0,1,2,2,2,1,1,4,Sales and service,2,2,2
+0,2,2,2,2,1,1,4,Sales and service,2,1,3
+1,1,0,2,2,1,6,30,Business,2,2,2
+1,1,1,1,1,1,6,40,Natural and applied sciences,2,2,3
+0,2,1,2,2,1,6,6,Management,2,0,2
+0,2,2,2,1,1,2,15,Sales and service,2,2,3
+0,2,2,2,2,1,6,8,Management,2,0,3
+1,1,2,2,1,1,5,8,Management,2,2,3
+0,1,1,2,1,1,6,40,Manufacturing and utilities,2,2,2
+1,1,2,2,1,1,5,8,Management,2,2,3
+0,1,2,2,1,1,6,30,Management,2,1,3
+1,1,1,2,1,1,1,35,Sales and service,1,2,1
+2,2,2,2,1,1,6,60,"education, law and social, community, and government services",2,2,3
+1,2,2,2,2,1,6,40,"education, law and social, community, and government services",2,1,3
+0,2,0,1,1,1,1,8,"education, law and social, community, and government services",2,0,2
+1,2,2,1,2,1,5,38,"education, law and social, community, and government services",3,1,3
+2,2,2,2,1,1,6,45,"education, law and social, community, and government services",2,3,3
+0,1,2,1,0,1,6,20,"education, law and social, community, and government services",2,3,1
+0,2,1,2,2,1,6,7,"art, culture, recreation and sport",2,0,1
+0,2,1,1,2,1,2,8,Natural and applied sciences,2,3,3
+0,2,2,2,1,1,4,8,"art, culture, recreation and sport",2,2,2
+3,1,1,1,0,1,6,20,Natural and applied sciences,3,2,3
+0,2,1,2,1,1,3,56,"art, culture, recreation and sport",2,1,3
+1,2,1,2,1,1,6,6,Business,2,0,3
+0,1,2,2,2,1,2,5,Health,2,0,2
+1,1,2,2,2,1,6,40,Management,2,2,3
+0,1,1,2,2,1,6,30,Management,2,2,3
+1,1,2,2,1,1,3,38,"education, law and social, community, and government services",2,1,3
+0,2,2,2,2,1,6,40,"art, culture, recreation and sport",3,0,2
+1,1,1,1,2,1,6,27,"art, culture, recreation and sport",2,0,1
+0,2,1,1,2,1,6,8,"education, law and social, community, and government services",2,0,2
+1,2,2,2,1,1,5,40,Management,2,0,3
+1,2,2,2,1,1,5,40,Management,2,0,2
+1,1,2,2,1,1,6,3,"art, culture, recreation and sport",2,1,2
+1,1,1,2,1,1,1,20,Sales and service,2,0,2
+0,1,2,2,2,1,6,50,Management,2,2,3
+0,2,1,2,0,1,6,20,Business,2,0,2
+0,3,2,1,2,1,6,4,"education, law and social, community, and government services",2,1,3
+0,1,2,1,2,1,2,8,Natural resources and agriculture,2,2,2
+0,1,2,2,1,1,6,35,"Trades, transport and equipment operators",2,1,2
+0,2,2,2,1,1,6,30,Business,2,3,3
+1,2,2,2,1,0,2,45,Business,3,3,3
+0,1,2,2,2,1,6,35,Business,2,3,3
+0,2,2,2,2,1,6,36,Sales and service,2,1,3
+0,2,1,2,2,1,6,30,Natural resources and agriculture,2,0,3
+1,1,2,2,1,1,6,19,"education, law and social, community, and government services",2,2,2
+1,2,1,1,1,1,6,35,Sales and service,2,1,3
+3,1,1,2,1,1,6,50,Management,2,3,3
+1,1,0,2,2,1,5,30,Sales and service,2,0,2
+0,1,2,2,1,1,6,30,Business,2,3,3
+1,2,2,2,1,1,6,10,"Trades, transport and equipment operators",2,0,3
+1,2,2,2,1,1,6,40,Business,2,3,3
+0,3,2,2,1,0,6,40,Natural and applied sciences,2,3,3
+1,1,2,2,0,1,6,35,Management,3,1,3
+1,1,1,2,1,1,6,30,Manufacturing and utilities,2,1,3
+1,1,1,1,1,1,6,34,Business,2,1,2
+1,1,0,0,1,1,6,35,Natural and applied sciences,2,1,1
+1,1,1,1,1,1,6,10,Natural resources and agriculture,2,1,3
+2,1,2,2,1,1,1,30,Sales and service,2,1,1
+0,1,1,1,2,1,6,25,Management,2,0,2
+0,2,1,2,2,1,3,8,Sales and service,2,0,3
+0,1,2,1,0,1,6,25,"education, law and social, community, and government services",2,3,1
+1,1,2,2,1,0,6,40,Manufacturing and utilities,1,2,2
+3,2,1,2,1,0,6,40,Management,2,3,3
+2,3,2,2,1,0,6,40,"education, law and social, community, and government services",3,1,1
+1,2,1,2,1,1,6,40,"art, culture, recreation and sport",3,1,3
+0,2,2,2,0,0,5,12,Sales and service,1,3,3
+0,2,2,2,2,0,6,20,Business,2,2,3
+1,1,2,2,2,1,6,40,Health,2,3,3
+2,2,1,2,0,1,1,40,"art, culture, recreation and sport",3,0,3
+1,1,1,1,1,1,6,40,Business,3,2,3
+1,1,2,2,1,1,2,45,Business,3,3,3
+0,1,2,2,1,1,2,20,Natural resources and agriculture,2,1,2
+0,1,2,2,2,1,2,6,Sales and service,2,0,1
+2,1,2,2,0,1,6,36,Management,3,0,3
+1,2,1,2,1,1,6,6,Business,2,0,3
+1,1,2,2,1,1,6,8,Sales and service,2,1,3
+2,3,2,2,1,0,3,40,"art, culture, recreation and sport",3,2,3
+0,2,2,2,0,0,6,20,"education, law and social, community, and government services",3,0,3
+0,2,2,2,0,1,1,15,Natural and applied sciences,2,1,1
+0,2,2,2,0,1,2,15,"Trades, transport and equipment operators",2,1,2
+0,1,2,1,1,1,3,8,Sales and service,2,2,3
+0,1,1,2,1,1,6,35,Health,2,1,3
+1,1,2,1,1,1,1,38,"Trades, transport and equipment operators",2,1,1
+0,2,1,2,0,1,6,5,Management,2,1,2
+0,2,1,1,0,1,6,16,"Trades, transport and equipment operators",3,1,2
+1,1,0,0,0,1,6,45,"education, law and social, community, and government services",2,1,2
+1,1,1,1,1,1,1,35,"education, law and social, community, and government services",2,1,3
+0,2,1,2,1,1,1,30,"education, law and social, community, and government services",2,2,3
+0,2,2,1,1,1,1,35,Business,2,2,3
+0,2,1,2,1,1,1,30,Business,2,0,3
+1,1,1,1,0,1,6,10,"education, law and social, community, and government services",2,1,3
+0,2,1,2,1,1,1,30,Business,2,3,3
+0,1,1,2,1,1,6,4,"art, culture, recreation and sport",2,1,1
+0,1,2,2,1,1,6,20,Sales and service,2,1,1
+0,1,2,2,1,1,6,20,Sales and service,2,1,1
+1,1,1,2,1,1,6,8,Sales and service,2,2,2
+0,2,2,1,1,1,6,20,"education, law and social, community, and government services",2,1,3
+1,2,1,2,2,1,6,5,Health,2,2,3
+3,1,2,2,1,1,6,30,"Trades, transport and equipment operators",1,1,2
+1,1,2,2,2,1,6,40,Sales and service,2,3,3
+1,2,0,1,1,1,6,10,Business,2,3,3
+1,2,2,2,0,1,6,35,Sales and service,1,1,2
+0,1,1,1,1,1,6,35,Sales and service,2,3,2
+4,1,2,1,1,0,6,4,Sales and service,1,3,2
+1,1,1,2,1,1,6,6,Business,2,1,2
+0,1,1,2,1,1,6,4,Management,2,1,2
+1,1,0,1,1,1,6,30,"Trades, transport and equipment operators",2,0,3
+0,2,1,2,0,0,6,20,"education, law and social, community, and government services",2,3,3
+1,2,2,2,2,1,6,35,Sales and service,2,1,2
+3,2,2,2,1,1,6,40,"education, law and social, community, and government services",1,1,3
+1,1,2,1,1,1,6,28,"art, culture, recreation and sport",2,1,2
+1,2,2,2,1,1,6,32,Management,3,3,3
+0,1,2,2,1,1,6,35,Business,2,1,2
+1,1,1,1,1,1,6,15,Health,2,2,3
+4,2,2,2,1,0,6,12,"education, law and social, community, and government services",3,1,3
+2,2,2,2,1,1,6,30,"education, law and social, community, and government services",3,3,3
+3,2,1,2,1,0,6,9,"education, law and social, community, and government services",2,2,3
+3,2,2,2,1,0,6,20,"education, law and social, community, and government services",1,1,2
+4,3,1,2,1,1,5,40,"Trades, transport and equipment operators",2,1,1
+1,1,0,2,2,1,6,12,Business,2,1,2
+1,2,1,1,2,1,6,15,"Trades, transport and equipment operators",2,2,3
+1,1,1,2,2,1,3,56,"education, law and social, community, and government services",2,1,3
+1,1,1,2,0,1,6,8,"education, law and social, community, and government services",3,2,3
+1,1,1,2,0,1,6,8,"education, law and social, community, and government services",3,2,3
+1,1,1,2,0,1,6,8,"education, law and social, community, and government services",3,2,3
+1,1,1,2,2,1,6,8,"education, law and social, community, and government services",3,2,3
+3,1,0,1,1,0,6,35,"Trades, transport and equipment operators",1,1,1
+2,2,2,2,1,0,6,6,"education, law and social, community, and government services",1,1,2
+4,2,1,2,1,0,6,7,"education, law and social, community, and government services",2,0,2
+1,1,2,2,1,1,1,35,Sales and service,2,1,1
+4,2,2,2,1,1,6,37.5,Health,2,2,3
+0,2,1,2,1,1,6,6,"art, culture, recreation and sport",2,1,2
+4,1,2,2,2,1,6,35,Natural resources and agriculture,2,1,3
+1,2,2,2,1,1,6,40,"education, law and social, community, and government services",2,1,3
+3,1,2,2,2,1,5,40,"Trades, transport and equipment operators",1,2,3
+0,1,1,1,1,1,6,33,"art, culture, recreation and sport",2,1,3
+3,2,0,0,0,1,6,25,Natural resources and agriculture,3,2,3
+4,2,2,2,1,1,6,3,"education, law and social, community, and government services",3,1,2
+4,1,1,1,1,1,6,42,Natural resources and agriculture,1,1,1
+3,2,0,0,0,1,5,40,Sales and service,1,1,1
+0,2,2,2,0,1,1,15,Natural and applied sciences,2,1,2
+1,1,1,1,1,0,6,8,"education, law and social, community, and government services",2,1,3
+1,1,2,1,2,1,6,8,Sales and service,2,1,3
+0,1,2,2,1,1,6,8,Health,2,1,3
+1,2,2,2,2,0,6,30,Sales and service,1,3,2
+1,1,1,2,2,0,1,24,Business,2,2,2
+1,2,1,2,0,1,6,60,Health,2,1,2
+1,2,2,2,2,1,6,35,Sales and service,2,1,3
+0,2,1,2,1,1,6,6,Health,2,0,2
+1,2,2,2,2,1,6,35,Natural and applied sciences,2,1,3
+2,1,1,2,1,0,4,36,Sales and service,1,0,3
+1,2,1,1,1,1,6,20,Business,2,3,1
+1,2,2,2,1,1,6,58,"education, law and social, community, and government services",2,2,3
+1,1,2,2,1,1,6,15,Health,2,1,2
+3,2,2,2,1,0,6,17.5,"education, law and social, community, and government services",2,1,3
+0,2,1,2,1,1,6,2,"education, law and social, community, and government services",3,2,3
+2,2,1,2,2,0,6,30,Business,2,2,3
+0,1,1,2,1,0,6,8,Manufacturing and utilities,2,0,2
+1,1,2,2,1,1,1,3,Management,2,0,2
+1,1,2,2,1,1,1,3,Management,2,0,2
+0,2,0,1,2,1,3,8,"art, culture, recreation and sport",2,2,3
+0,2,1,2,0,1,6,12,"education, law and social, community, and government services",2,3,1
+1,1,2,2,1,1,1,36,"Trades, transport and equipment operators",2,1,2
+2,2,2,2,2,1,3,4,"art, culture, recreation and sport",2,2,2
+1,2,1,2,1,0,6,60,Sales and service,1,1,2
+1,1,2,2,2,1,6,9,Management,2,1,3
+1,1,2,2,2,1,6,9,Management,2,1,3
+0,1,1,2,1,1,6,30,Manufacturing and utilities,2,2,3
+0,1,1,2,1,1,6,35,Management,2,1,1
+0,2,2,2,1,0,6,3,Business,2,2,2
+4,1,2,2,1,1,6,60,Natural resources and agriculture,3,3,3
+0,2,1,1,2,1,4,8,Health,2,3,3
+0,1,1,2,1,1,1,40,Sales and service,2,1,3
+0,2,1,2,1,1,6,5,Business,2,1,1
+0,1,2,2,1,1,6,44,Health,1,1,2
+0,2,1,2,2,1,6,24,Health,1,2,3
+3,2,1,2,1,0,6,30,"education, law and social, community, and government services",1,1,3
+2,2,2,2,2,1,1,5,Sales and service,2,1,3
+2,1,2,2,1,1,1,35,Manufacturing and utilities,2,1,1
+0,2,2,2,1,1,2,10,"education, law and social, community, and government services",2,3,3
+0,2,2,2,0,0,6,48,"education, law and social, community, and government services",3,0,1
+0,2,1,2,2,1,6,6,Business,2,2,2
+2,1,2,1,1,1,1,38,Manufacturing and utilities,2,1,1
+0,2,1,2,2,1,6,7,Sales and service,2,0,3
+3,2,2,2,1,0,6,40,Business,1,2,3
+1,1,1,1,2,1,1,4,Health,2,0,3
+0,1,1,2,2,1,3,8,Sales and service,2,3,3
+0,1,1,2,2,1,3,8,Sales and service,2,3,3
+0,2,2,1,1,1,4,3,Natural and applied sciences,2,0,2
+0,2,2,2,1,1,6,6,Business,2,1,2
+0,2,2,2,1,1,6,6,Business,2,3,2
+0,2,2,2,1,1,6,6,Business,2,1,2
+0,2,2,2,1,1,6,6,Business,2,0,2
+0,2,2,2,1,1,6,6,Business,2,3,2
+0,2,2,2,1,1,6,6,Business,2,0,2
+0,2,2,2,1,1,6,6,Business,2,2,2
+0,2,2,2,1,1,6,6,Business,2,0,2
+0,2,2,2,1,1,6,6,Business,2,0,2
+0,2,2,2,1,1,6,6,Business,2,1,2
+0,2,2,2,1,1,6,6,Business,2,2,2
+0,2,2,2,1,1,6,6,Business,2,2,2
+0,2,2,2,1,1,6,6,Business,2,0,2
+0,2,2,2,1,1,6,6,Business,2,3,2
+0,2,2,2,1,1,6,6,Business,2,3,2
+0,2,2,2,1,1,6,6,Business,2,0,2
+0,2,2,2,1,1,6,6,Business,2,0,2
+0,2,2,2,1,1,6,6,Business,2,1,2
+0,2,2,2,1,1,6,6,Business,2,1,2
+0,2,2,2,1,1,6,6,Business,2,0,2
+4,1,1,0,0,0,6,20,"Trades, transport and equipment operators",2,1,2
+0,2,2,1,1,1,1,40,Sales and service,2,1,3
+4,1,2,2,1,0,6,50,"education, law and social, community, and government services",2,1,1
+1,2,0,0,0,0,6,20,"education, law and social, community, and government services",1,2,3
+2,1,1,2,2,1,6,5,Manufacturing and utilities,2,0,2
+1,1,1,2,1,1,6,6,Management,2,0,3
+4,2,0,1,0,1,6,10,"education, law and social, community, and government services",1,2,3
+0,1,1,2,2,1,6,40,Manufacturing and utilities,2,2,1
+1,3,0,0,0,1,6,35,Business,1,1,3
+4,3,2,2,1,1,6,25,Health,2,1,3
+1,1,2,2,2,1,1,10,Management,2,0,3
+4,2,2,2,2,1,6,40,"Trades, transport and equipment operators",1,1,3
+2,2,2,2,0,0,6,32,Sales and service,1,2,1
+1,1,1,1,1,1,6,3,"Trades, transport and equipment operators",2,3,3
+4,2,2,2,1,0,6,20,Sales and service,2,2,2
+1,1,2,2,1,1,6,40,Sales and service,2,1,2
+1,1,0,1,2,0,6,40,Health,2,1,3
+1,1,2,1,1,1,6,6,Sales and service,2,1,1
+1,1,2,2,2,1,6,8,Health,2,0,3
+1,3,1,2,2,1,6,8,Health,2,0,2
+0,3,2,2,2,1,5,4,Health,2,0,1
+1,1,2,2,1,1,6,10,"Trades, transport and equipment operators",2,0,3
+0,1,2,2,2,1,3,4,Management,2,2,2
+0,2,2,2,2,1,3,7,Sales and service,2,2,2
+1,2,1,1,2,1,6,40,"art, culture, recreation and sport",2,1,3
+1,1,2,2,1,1,6,5,Health,2,2,3
+1,1,1,2,0,1,6,8,"education, law and social, community, and government services",2,2,3
+3,2,2,2,1,1,6,40,"education, law and social, community, and government services",3,1,3
+1,1,2,2,2,1,1,15,Management,2,1,3
+0,2,2,2,1,1,6,16,"education, law and social, community, and government services",2,1,3
+0,2,2,2,2,0,6,10,"education, law and social, community, and government services",3,0,3
+1,2,1,2,1,1,6,28,"Trades, transport and equipment operators",2,2,1
+0,1,1,1,1,1,2,6,"art, culture, recreation and sport",2,1,3
+0,2,2,0,1,1,6,24,Natural and applied sciences,2,1,3
+1,1,2,2,1,1,6,8,Sales and service,2,1,3
+3,2,1,0,1,1,2,40,"education, law and social, community, and government services",2,1,2
+2,2,2,2,1,0,2,35,Management,3,2,3
+1,2,2,0,1,0,4,24,Natural and applied sciences,2,1,1
+0,2,2,2,2,1,5,10,Management,2,1,3
+0,1,2,1,1,1,3,8,Business,2,0,2
+0,1,1,0,1,1,6,2,Manufacturing and utilities,2,1,2
+2,2,2,2,0,1,6,35,"education, law and social, community, and government services",3,1,3
+0,1,1,0,1,1,6,2,Manufacturing and utilities,2,1,2
+0,2,1,2,1,0,2,2,Sales and service,2,0,2
+0,2,1,2,1,1,6,7,"education, law and social, community, and government services",2,1,3
+1,2,2,2,1,1,2,35,"education, law and social, community, and government services",3,3,3
+0,1,2,2,1,1,6,2,"Trades, transport and equipment operators",3,2,3
+0,2,1,1,2,1,6,5,"Trades, transport and equipment operators",2,0,2
+0,1,2,2,1,1,6,4,Sales and service,2,0,2
+0,1,2,2,2,1,3,31,Management,2,0,3
+1,2,2,2,1,0,2,36,Sales and service,1,0,2
+3,2,2,2,1,1,6,35,"education, law and social, community, and government services",2,1,2
+1,1,0,1,1,1,6,5,"art, culture, recreation and sport",2,0,2
+1,1,0,1,1,1,6,5,"art, culture, recreation and sport",2,0,2
+0,2,2,2,1,1,6,5,Health,2,1,2
+0,1,2,2,1,1,1,50,Natural and applied sciences,2,1,3
+0,1,2,2,1,1,4,40,Sales and service,3,2,2
+0,2,2,1,2,1,6,8,Natural and applied sciences,2,1,3
+0,2,2,2,2,1,3,6,"art, culture, recreation and sport",2,2,2
+1,1,2,2,1,1,6,7,Management,2,2,3
+0,2,2,2,1,1,6,40,Natural and applied sciences,2,0,2
+0,1,2,2,1,0,4,28,Health,2,0,3
+1,1,2,2,1,0,6,40,Health,2,1,2
+0,2,2,2,1,0,4,25,Business,2,0,2
+3,1,2,2,1,0,1,80,"art, culture, recreation and sport",2,1,3
+1,1,2,1,1,1,6,30,"art, culture, recreation and sport",2,1,2
+1,1,2,2,1,1,6,8,"education, law and social, community, and government services",2,1,3
+0,2,2,1,2,1,3,8,"education, law and social, community, and government services",2,2,2
+0,1,2,2,1,1,6,18,"art, culture, recreation and sport",2,1,3
+0,2,1,2,1,1,1,20,Management,2,0,3
+0,1,1,2,1,0,6,25,Management,2,0,3
+0,2,1,1,2,0,4,26,Natural resources and agriculture,3,2,2
+0,1,2,2,0,1,6,6,Management,2,3,3
+3,2,2,2,1,1,2,40,Health,1,0,2
+0,2,2,2,0,1,6,35,"education, law and social, community, and government services",2,2,3
+0,1,2,2,0,1,2,10,Health,3,2,1
+1,1,2,2,1,1,6,16,Natural and applied sciences,2,1,2
+1,1,2,2,2,1,6,8,Health,2,0,2
+0,1,2,2,2,1,3,16,Sales and service,2,2,3
+0,1,1,2,2,1,3,6,Natural and applied sciences,2,2,2
+2,2,2,2,0,0,6,32,"art, culture, recreation and sport",2,1,3
+0,1,1,2,1,1,6,8,Natural and applied sciences,2,0,3
+1,1,1,0,1,1,5,20,Health,2,1,3
+1,1,2,2,2,1,5,20,Sales and service,2,0,2
+1,2,1,2,1,0,6,20,"education, law and social, community, and government services",1,1,3
+3,2,1,2,2,1,6,37.5,Health,1,1,3
+2,2,1,1,0,0,6,30,"education, law and social, community, and government services",2,1,3
+2,2,2,2,1,1,6,40,"education, law and social, community, and government services",3,1,3
+1,2,1,1,1,1,6,38,"education, law and social, community, and government services",3,3,3
+3,1,1,2,2,1,2,35,"education, law and social, community, and government services",3,2,3
+3,2,2,2,2,1,6,25,Business,2,3,3
+1,1,2,2,1,1,6,8,"education, law and social, community, and government services",2,2,3
+3,2,2,2,0,1,6,37.5,Business,2,2,2
+3,2,1,1,2,1,5,40,Health,1,1,2
+0,2,1,2,0,1,6,35,Sales and service,2,1,3
+1,2,1,2,1,1,6,37.5,Health,2,0,3
+0,1,2,2,1,1,6,40,"art, culture, recreation and sport",2,1,2
+0,1,2,2,1,1,6,40,"art, culture, recreation and sport",2,1,2
+0,1,1,2,1,0,6,30,Sales and service,2,0,2
+2,2,1,2,1,0,6,35,"education, law and social, community, and government services",2,2,3
+0,1,1,2,1,0,6,30,Sales and service,2,2,2
+0,1,1,2,1,0,6,30,Sales and service,2,2,2
+0,1,2,2,2,1,3,3,Management,2,0,2
+1,1,1,1,1,1,2,5,"education, law and social, community, and government services",2,1,2
+4,2,2,2,1,0,6,10,"art, culture, recreation and sport",3,0,2
+0,1,1,2,1,1,6,10,"art, culture, recreation and sport",2,0,3
+3,2,2,2,2,1,6,20,Health,3,2,3
+0,1,1,2,1,0,6,30,Sales and service,3,0,2
+2,2,1,2,1,1,6,38,Health,3,3,3
+0,1,2,2,2,1,3,3,Management,2,0,3
+4,2,2,2,2,0,6,5,"art, culture, recreation and sport",3,2,2
+0,1,2,2,2,1,3,3,Management,2,0,3
+4,2,2,1,2,1,6,37.5,"education, law and social, community, and government services",2,1,3
+3,2,2,2,1,0,6,40,Business,2,1,2
+2,1,2,2,2,0,6,60,Health,2,3,3
+4,2,2,2,2,0,6,35,"education, law and social, community, and government services",3,1,3
+2,1,1,1,2,1,6,40,Business,2,1,3
+1,3,2,1,2,0,4,30,Natural and applied sciences,2,1,3
+3,2,2,2,1,1,6,25,Management,2,1,3
+4,1,2,2,1,0,6,40,Sales and service,1,2,1
+2,2,1,2,1,0,6,35,Business,2,0,2
+2,2,2,2,1,1,6,37.5,Health,1,1,2
+4,2,1,1,0,0,5,40,Manufacturing and utilities,1,2,1
+1,1,2,2,2,1,5,10,Management,2,1,3
+1,1,1,2,2,1,6,48,Health,1,1,3
+1,1,2,2,2,1,2,40,Sales and service,2,3,3
+1,2,2,2,2,1,6,40,Sales and service,2,2,3
+0,2,2,2,1,1,6,40,Sales and service,2,2,3
+0,1,0,0,1,1,6,28,Sales and service,3,2,3
