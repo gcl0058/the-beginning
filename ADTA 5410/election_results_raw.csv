@@ -1,0 +1,10 @@
+year,election_month,house_seats_dem,house_seats_rep,senate_seats_dem,senate_seats_rep,presidential_winner_party,presidential_winner_name,election_type,house_majority,senate_majority,is_presidential
+2008,11,257,178,57,41,Democratic,Barack Obama,General,Democratic,Democratic,TRUE
+2010,11,193,242,53,47,,,Midterm,Republican,Democratic,FALSE
+2012,11,201,234,53,45,Democratic,Barack Obama,General,Republican,Democratic,TRUE
+2014,11,188,247,44,54,,,Midterm,Republican,Republican,FALSE
+2016,11,194,241,46,52,Republican,Donald Trump,General,Republican,Republican,TRUE
+2018,11,235,199,45,53,,,Midterm,Democratic,Republican,FALSE
+2020,11,222,213,50,50,Democratic,Joe Biden,General,Democratic,Republican,TRUE
+2022,11,213,222,51,49,,,Midterm,Republican,Democratic,FALSE
+2024,11,212,223,49,51,Republican,Donald Trump,General,Republican,Republican,TRUE
